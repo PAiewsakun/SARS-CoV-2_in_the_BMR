@@ -1,0 +1,2690 @@
+Province	Region	Epiyear	Epiweek	n
+Amnat Charoen	non-BMR	2021	42	1
+Amnat Charoen	non-BMR	2021	45	3
+Amnat Charoen	non-BMR	2021	47	1
+Amnat Charoen	non-BMR	2021	48	1
+Amnat Charoen	non-BMR	2021	49	3
+Amnat Charoen	non-BMR	2022	5	1
+Amnat Charoen	non-BMR	2022	7	2
+Amnat Charoen	non-BMR	2022	8	2
+Amnat Charoen	non-BMR	2022	9	1
+Amnat Charoen	non-BMR	2022	18	1
+Ang Thong	non-BMR	2021	1	6
+Ang Thong	non-BMR	2021	2	1
+Ang Thong	non-BMR	2022	7	1
+Ang Thong	non-BMR	2022	9	0.806451612903225
+Ang Thong	non-BMR	2022	10	1.12903225806451
+Ang Thong	non-BMR	2022	11	2.12903225806452
+Ang Thong	non-BMR	2022	12	1.12903225806451
+Ang Thong	non-BMR	2022	13	0.939784946236559
+Ang Thong	non-BMR	2022	14	0.466666666666666
+Ang Thong	non-BMR	2022	15	0.466666666666666
+Ang Thong	non-BMR	2022	16	0.466666666666666
+Ang Thong	non-BMR	2022	17	0.466666666666666
+Ang Thong	non-BMR	2022	18	0.451612903225806
+Ang Thong	non-BMR	2022	19	0.451612903225806
+Ang Thong	non-BMR	2022	20	0.451612903225806
+Ang Thong	non-BMR	2022	21	1.45161290322581
+Ang Thong	non-BMR	2022	22	0.193548387096774
+Ang Thong	non-BMR	2022	35	0.1
+Ang Thong	non-BMR	2022	36	0.233333333333333
+Ang Thong	non-BMR	2022	37	0.233333333333333
+Ang Thong	non-BMR	2022	38	0.233333333333333
+Ang Thong	non-BMR	2022	39	0.2
+Bangkok	Bangkok	2020	1	0.0109289617486339
+Bangkok	Bangkok	2020	2	0.0191256830601093
+Bangkok	Bangkok	2020	3	0.0191256830601093
+Bangkok	Bangkok	2020	4	0.0191256830601093
+Bangkok	Bangkok	2020	5	0.0191256830601093
+Bangkok	Bangkok	2020	6	0.0191256830601093
+Bangkok	Bangkok	2020	7	0.0191256830601093
+Bangkok	Bangkok	2020	8	0.0191256830601093
+Bangkok	Bangkok	2020	9	0.0191256830601093
+Bangkok	Bangkok	2020	10	2.01912568306011
+Bangkok	Bangkok	2020	11	62.0191256830601
+Bangkok	Bangkok	2020	12	81.0191256830601
+Bangkok	Bangkok	2020	13	38.0191256830601
+Bangkok	Bangkok	2020	14	27.0191256830601
+Bangkok	Bangkok	2020	15	2.01912568306011
+Bangkok	Bangkok	2020	16	0.0191256830601093
+Bangkok	Bangkok	2020	17	0.0191256830601093
+Bangkok	Bangkok	2020	18	0.0191256830601093
+Bangkok	Bangkok	2020	19	0.0191256830601093
+Bangkok	Bangkok	2020	20	0.0191256830601093
+Bangkok	Bangkok	2020	21	0.0191256830601093
+Bangkok	Bangkok	2020	22	0.0191256830601093
+Bangkok	Bangkok	2020	23	0.0191256830601093
+Bangkok	Bangkok	2020	24	0.0191256830601093
+Bangkok	Bangkok	2020	25	0.0191256830601093
+Bangkok	Bangkok	2020	26	0.0191256830601093
+Bangkok	Bangkok	2020	27	0.0191256830601093
+Bangkok	Bangkok	2020	28	0.0191256830601093
+Bangkok	Bangkok	2020	29	0.0191256830601093
+Bangkok	Bangkok	2020	30	0.0191256830601093
+Bangkok	Bangkok	2020	31	0.0191256830601093
+Bangkok	Bangkok	2020	32	0.0191256830601093
+Bangkok	Bangkok	2020	33	0.0191256830601093
+Bangkok	Bangkok	2020	34	0.0191256830601093
+Bangkok	Bangkok	2020	35	0.0191256830601093
+Bangkok	Bangkok	2020	36	0.185792349726776
+Bangkok	Bangkok	2020	37	0.252459016393442
+Bangkok	Bangkok	2020	38	0.252459016393442
+Bangkok	Bangkok	2020	39	0.252459016393442
+Bangkok	Bangkok	2020	40	0.152459016393442
+Bangkok	Bangkok	2020	41	1.01912568306011
+Bangkok	Bangkok	2020	42	0.0191256830601093
+Bangkok	Bangkok	2020	43	0.0191256830601093
+Bangkok	Bangkok	2020	44	0.0191256830601093
+Bangkok	Bangkok	2020	45	1.01912568306011
+Bangkok	Bangkok	2020	46	1.01912568306011
+Bangkok	Bangkok	2020	47	0.0191256830601093
+Bangkok	Bangkok	2020	48	1.01912568306011
+Bangkok	Bangkok	2020	49	6.01912568306011
+Bangkok	Bangkok	2020	50	8.01912568306011
+Bangkok	Bangkok	2020	51	0.0191256830601093
+Bangkok	Bangkok	2020	52	6.01912568306011
+Bangkok	Bangkok	2020	53	8.66430194456317
+Bangkok	Bangkok	2021	1	20.2772425983208
+Bangkok	Bangkok	2021	2	4.27724259832081
+Bangkok	Bangkok	2021	3	14.2772425983208
+Bangkok	Bangkok	2021	4	3.27724259832081
+Bangkok	Bangkok	2021	5	2.05604444163879
+Bangkok	Bangkok	2021	6	9.01917808219178
+Bangkok	Bangkok	2021	7	5.01917808219178
+Bangkok	Bangkok	2021	8	8.01917808219178
+Bangkok	Bangkok	2021	9	9.43392462597058
+Bangkok	Bangkok	2021	10	14.5030490499337
+Bangkok	Bangkok	2021	11	9.50304904993372
+Bangkok	Bangkok	2021	12	8.50304904993371
+Bangkok	Bangkok	2021	13	17.7385329209014
+Bangkok	Bangkok	2021	14	37.0525114155251
+Bangkok	Bangkok	2021	15	52.0525114155251
+Bangkok	Bangkok	2021	16	15.0525114155251
+Bangkok	Bangkok	2021	17	6.61917808219178
+Bangkok	Bangkok	2021	18	112.019178082192
+Bangkok	Bangkok	2021	19	178.019178082192
+Bangkok	Bangkok	2021	20	197.019178082192
+Bangkok	Bangkok	2021	21	210.019178082192
+Bangkok	Bangkok	2021	22	46.5191780821918
+Bangkok	Bangkok	2021	23	99.1191780821918
+Bangkok	Bangkok	2021	24	151.119178082192
+Bangkok	Bangkok	2021	25	149.119178082192
+Bangkok	Bangkok	2021	26	80.2191780821918
+Bangkok	Bangkok	2021	27	88.0191780821918
+Bangkok	Bangkok	2021	28	154.019178082192
+Bangkok	Bangkok	2021	29	179.019178082192
+Bangkok	Bangkok	2021	30	170.019178082192
+Bangkok	Bangkok	2021	31	78.0191780821918
+Bangkok	Bangkok	2021	32	142.019178082192
+Bangkok	Bangkok	2021	33	54.0191780821918
+Bangkok	Bangkok	2021	34	31.0191780821918
+Bangkok	Bangkok	2021	35	40.1525114155251
+Bangkok	Bangkok	2021	36	69.2525114155251
+Bangkok	Bangkok	2021	37	105.252511415525
+Bangkok	Bangkok	2021	38	58.2525114155251
+Bangkok	Bangkok	2021	39	70.3793931359552
+Bangkok	Bangkok	2021	40	44.6965974370305
+Bangkok	Bangkok	2021	41	34.6965974370305
+Bangkok	Bangkok	2021	42	34.6965974370305
+Bangkok	Bangkok	2021	43	39.6965974370305
+Bangkok	Bangkok	2021	44	42.9159522757401
+Bangkok	Bangkok	2021	45	45.1191780821918
+Bangkok	Bangkok	2021	46	24.1191780821918
+Bangkok	Bangkok	2021	47	87.1191780821918
+Bangkok	Bangkok	2021	48	82.3707909854176
+Bangkok	Bangkok	2021	49	122.309500662837
+Bangkok	Bangkok	2021	50	203.309500662837
+Bangkok	Bangkok	2021	51	192.309500662837
+Bangkok	Bangkok	2021	52	216.726115775519
+Bangkok	Bangkok	2022	1	558.225806451612
+Bangkok	Bangkok	2022	2	533.225806451613
+Bangkok	Bangkok	2022	3	285.225806451613
+Bangkok	Bangkok	2022	4	270.225806451613
+Bangkok	Bangkok	2022	5	323.171658986175
+Bangkok	Bangkok	2022	6	262.75
+Bangkok	Bangkok	2022	7	309.75
+Bangkok	Bangkok	2022	8	337.75
+Bangkok	Bangkok	2022	9	272.997695852535
+Bangkok	Bangkok	2022	10	200.096774193548
+Bangkok	Bangkok	2022	11	142.096774193548
+Bangkok	Bangkok	2022	12	163.096774193548
+Bangkok	Bangkok	2022	13	174.821505376344
+Bangkok	Bangkok	2022	14	121.633333333333
+Bangkok	Bangkok	2022	15	145.633333333333
+Bangkok	Bangkok	2022	16	167.633333333333
+Bangkok	Bangkok	2022	17	172.633333333333
+Bangkok	Bangkok	2022	18	147.903225806452
+Bangkok	Bangkok	2022	19	122.903225806452
+Bangkok	Bangkok	2022	20	90.9032258064515
+Bangkok	Bangkok	2022	21	112.903225806452
+Bangkok	Bangkok	2022	22	101.45376344086
+Bangkok	Bangkok	2022	23	105.866666666667
+Bangkok	Bangkok	2022	24	219.866666666667
+Bangkok	Bangkok	2022	25	156.866666666667
+Bangkok	Bangkok	2022	26	191.784946236559
+Bangkok	Bangkok	2022	27	134.58064516129
+Bangkok	Bangkok	2022	28	137.58064516129
+Bangkok	Bangkok	2022	29	159.58064516129
+Bangkok	Bangkok	2022	30	98.5806451612902
+Bangkok	Bangkok	2022	31	92.516129032258
+Bangkok	Bangkok	2022	32	68.8387096774193
+Bangkok	Bangkok	2022	33	60.8387096774193
+Bangkok	Bangkok	2022	34	62.8387096774193
+Bangkok	Bangkok	2022	35	38.5935483870968
+Bangkok	Bangkok	2022	36	35.2666666666667
+Bangkok	Bangkok	2022	37	25.2666666666667
+Bangkok	Bangkok	2022	38	4.26666666666666
+Bangkok	Bangkok	2022	39	2.8
+Bueng Kan	non-BMR	2021	22	0.333333333333333
+Bueng Kan	non-BMR	2021	23	0.466666666666667
+Bueng Kan	non-BMR	2021	24	0.466666666666667
+Bueng Kan	non-BMR	2021	25	0.466666666666667
+Bueng Kan	non-BMR	2021	26	1.26666666666667
+Bueng Kan	non-BMR	2021	36	5
+Bueng Kan	non-BMR	2021	37	1
+Bueng Kan	non-BMR	2021	38	2
+Bueng Kan	non-BMR	2021	39	6
+Bueng Kan	non-BMR	2021	40	4
+Bueng Kan	non-BMR	2021	41	3
+Bueng Kan	non-BMR	2021	42	3
+Bueng Kan	non-BMR	2021	43	3
+Bueng Kan	non-BMR	2021	44	5
+Bueng Kan	non-BMR	2021	45	3
+Bueng Kan	non-BMR	2021	46	3
+Bueng Kan	non-BMR	2021	47	2
+Bueng Kan	non-BMR	2021	48	1
+Bueng Kan	non-BMR	2021	51	7
+Bueng Kan	non-BMR	2022	29	1
+Bueng Kan	non-BMR	2022	31	0.387096774193548
+Bueng Kan	non-BMR	2022	32	0.451612903225806
+Bueng Kan	non-BMR	2022	33	0.451612903225806
+Bueng Kan	non-BMR	2022	34	0.451612903225806
+Bueng Kan	non-BMR	2022	35	0.258064516129032
+Buri Ram	non-BMR	2021	37	1
+Buri Ram	non-BMR	2021	38	1
+Buri Ram	non-BMR	2021	40	4
+Buri Ram	non-BMR	2021	41	1
+Buri Ram	non-BMR	2021	42	2
+Buri Ram	non-BMR	2021	45	2
+Buri Ram	non-BMR	2022	10	1
+Buri Ram	non-BMR	2022	12	1
+Buri Ram	non-BMR	2022	27	1
+Buri Ram	non-BMR	2022	28	1
+Chachoengsao	non-BMR	2021	20	2
+Chachoengsao	non-BMR	2021	39	0.451612903225806
+Chachoengsao	non-BMR	2021	40	1.58064516129032
+Chachoengsao	non-BMR	2021	41	1.58064516129032
+Chachoengsao	non-BMR	2021	42	1.58064516129032
+Chachoengsao	non-BMR	2021	43	1.58064516129032
+Chachoengsao	non-BMR	2021	44	0.225806451612903
+Chachoengsao	non-BMR	2021	48	3
+Chachoengsao	non-BMR	2022	8	2
+Chachoengsao	non-BMR	2022	12	3
+Chachoengsao	non-BMR	2022	13	1
+Chachoengsao	non-BMR	2022	18	1
+Chai Nat	non-BMR	2021	1	3
+Chai Nat	non-BMR	2021	26	1
+Chai Nat	non-BMR	2021	35	4
+Chai Nat	non-BMR	2021	36	4
+Chai Nat	non-BMR	2021	37	1
+Chai Nat	non-BMR	2021	38	11
+Chai Nat	non-BMR	2021	39	13
+Chai Nat	non-BMR	2021	40	3
+Chai Nat	non-BMR	2021	43	8
+Chai Nat	non-BMR	2021	44	3
+Chai Nat	non-BMR	2021	49	2
+Chai Nat	non-BMR	2021	50	2
+Chai Nat	non-BMR	2022	3	1
+Chai Nat	non-BMR	2022	7	1
+Chai Nat	non-BMR	2022	8	2
+Chai Nat	non-BMR	2022	9	2
+Chai Nat	non-BMR	2022	16	3
+Chai Nat	non-BMR	2022	17	3
+Chai Nat	non-BMR	2022	18	6
+Chai Nat	non-BMR	2022	22	2
+Chai Nat	non-BMR	2022	26	1
+Chaiyaphum	non-BMR	2021	25	1
+Chaiyaphum	non-BMR	2021	31	1
+Chaiyaphum	non-BMR	2021	51	1
+Chaiyaphum	non-BMR	2022	19	1
+Chaiyaphum	non-BMR	2022	20	1
+Chanthaburi	non-BMR	2021	16	1
+Chanthaburi	non-BMR	2021	21	64
+Chanthaburi	non-BMR	2021	35	10
+Chanthaburi	non-BMR	2021	36	2
+Chanthaburi	non-BMR	2021	37	2
+Chanthaburi	non-BMR	2021	38	61
+Chanthaburi	non-BMR	2021	39	110
+Chanthaburi	non-BMR	2021	40	211
+Chanthaburi	non-BMR	2021	41	34
+Chanthaburi	non-BMR	2021	42	105
+Chanthaburi	non-BMR	2021	43	187
+Chanthaburi	non-BMR	2021	44	38
+Chanthaburi	non-BMR	2021	45	33
+Chanthaburi	non-BMR	2021	46	4
+Chanthaburi	non-BMR	2021	48	1
+Chanthaburi	non-BMR	2022	2	1
+Chanthaburi	non-BMR	2022	5	1
+Chanthaburi	non-BMR	2022	6	4
+Chanthaburi	non-BMR	2022	7	6
+Chanthaburi	non-BMR	2022	8	18
+Chanthaburi	non-BMR	2022	9	16.1612903225807
+Chanthaburi	non-BMR	2022	10	20.2258064516129
+Chanthaburi	non-BMR	2022	11	9.2258064516129
+Chanthaburi	non-BMR	2022	12	8.2258064516129
+Chanthaburi	non-BMR	2022	13	3.16129032258065
+Chanthaburi	non-BMR	2022	14	4
+Chanthaburi	non-BMR	2022	15	1
+Chanthaburi	non-BMR	2022	16	2
+Chanthaburi	non-BMR	2022	17	4
+Chanthaburi	non-BMR	2022	18	7.2258064516129
+Chanthaburi	non-BMR	2022	19	9.2258064516129
+Chanthaburi	non-BMR	2022	20	1.2258064516129
+Chanthaburi	non-BMR	2022	21	7.2258064516129
+Chanthaburi	non-BMR	2022	22	2.09677419354839
+Chanthaburi	non-BMR	2022	23	3
+Chanthaburi	non-BMR	2022	25	1
+Chanthaburi	non-BMR	2022	27	1
+Chanthaburi	non-BMR	2022	28	3
+Chanthaburi	non-BMR	2022	29	2
+Chanthaburi	non-BMR	2022	30	8
+Chanthaburi	non-BMR	2022	31	5
+Chanthaburi	non-BMR	2022	32	3
+Chanthaburi	non-BMR	2022	33	1
+Chanthaburi	non-BMR	2022	34	3
+Chanthaburi	non-BMR	2022	35	2
+Chanthaburi	non-BMR	2022	36	4
+Chanthaburi	non-BMR	2022	37	1
+Chanthaburi	non-BMR	2022	38	1
+Chiang Mai	non-BMR	2021	14	1
+Chiang Mai	non-BMR	2021	18	1
+Chiang Mai	non-BMR	2021	23	2
+Chiang Mai	non-BMR	2021	24	1
+Chiang Mai	non-BMR	2021	26	1
+Chiang Mai	non-BMR	2021	27	1
+Chiang Mai	non-BMR	2021	31	1
+Chiang Mai	non-BMR	2021	32	3
+Chiang Mai	non-BMR	2021	33	1
+Chiang Mai	non-BMR	2021	34	3
+Chiang Mai	non-BMR	2021	36	1
+Chiang Mai	non-BMR	2021	37	3
+Chiang Mai	non-BMR	2021	38	25
+Chiang Mai	non-BMR	2021	39	30.3225806451613
+Chiang Mai	non-BMR	2021	40	13.1290322580645
+Chiang Mai	non-BMR	2021	41	4.12903225806451
+Chiang Mai	non-BMR	2021	42	97.1290322580645
+Chiang Mai	non-BMR	2021	43	43.1290322580645
+Chiang Mai	non-BMR	2021	44	20.1612903225807
+Chiang Mai	non-BMR	2021	45	69.1666666666666
+Chiang Mai	non-BMR	2021	46	9.16666666666666
+Chiang Mai	non-BMR	2021	47	6.16666666666666
+Chiang Mai	non-BMR	2021	48	0.5
+Chiang Mai	non-BMR	2021	52	4
+Chiang Mai	non-BMR	2022	1	24
+Chiang Mai	non-BMR	2022	2	8
+Chiang Mai	non-BMR	2022	3	10
+Chiang Mai	non-BMR	2022	4	4
+Chiang Mai	non-BMR	2022	5	7.35714285714286
+Chiang Mai	non-BMR	2022	6	30.5
+Chiang Mai	non-BMR	2022	7	22.5
+Chiang Mai	non-BMR	2022	8	1.5
+Chiang Mai	non-BMR	2022	9	5.27188940092166
+Chiang Mai	non-BMR	2022	10	3.58064516129033
+Chiang Mai	non-BMR	2022	11	6.58064516129032
+Chiang Mai	non-BMR	2022	12	7.58064516129032
+Chiang Mai	non-BMR	2022	13	3.12903225806452
+Chiang Mai	non-BMR	2022	14	3
+Chiang Mai	non-BMR	2022	15	2
+Chiang Mai	non-BMR	2022	16	1
+Chiang Mai	non-BMR	2022	17	2
+Chiang Mai	non-BMR	2022	18	1
+Chiang Mai	non-BMR	2022	19	2
+Chiang Mai	non-BMR	2022	20	5
+Chiang Mai	non-BMR	2022	21	3
+Chiang Mai	non-BMR	2022	23	2
+Chiang Mai	non-BMR	2022	24	3
+Chiang Mai	non-BMR	2022	25	4
+Chiang Mai	non-BMR	2022	26	6
+Chiang Mai	non-BMR	2022	27	10
+Chiang Mai	non-BMR	2022	28	6
+Chiang Mai	non-BMR	2022	29	5
+Chiang Mai	non-BMR	2022	31	1
+Chiang Mai	non-BMR	2022	32	4
+Chiang Mai	non-BMR	2022	33	4
+Chiang Mai	non-BMR	2022	36	1
+Chiang Rai	non-BMR	2020	48	1
+Chiang Rai	non-BMR	2020	49	3
+Chiang Rai	non-BMR	2021	16	4
+Chiang Rai	non-BMR	2021	17	0.032258064516129
+Chiang Rai	non-BMR	2021	18	0.225806451612903
+Chiang Rai	non-BMR	2021	19	0.225806451612903
+Chiang Rai	non-BMR	2021	20	20.2258064516129
+Chiang Rai	non-BMR	2021	21	2.2258064516129
+Chiang Rai	non-BMR	2021	22	0.0645161290322581
+Chiang Rai	non-BMR	2021	24	7
+Chiang Rai	non-BMR	2021	28	1
+Chiang Rai	non-BMR	2021	30	2
+Chiang Rai	non-BMR	2021	33	21
+Chiang Rai	non-BMR	2021	35	1
+Chiang Rai	non-BMR	2021	36	1
+Chiang Rai	non-BMR	2021	40	1
+Chiang Rai	non-BMR	2021	42	1
+Chiang Rai	non-BMR	2021	43	1
+Chiang Rai	non-BMR	2021	44	3
+Chiang Rai	non-BMR	2021	48	0.129032258064516
+Chiang Rai	non-BMR	2021	49	4.2258064516129
+Chiang Rai	non-BMR	2021	50	13.2258064516129
+Chiang Rai	non-BMR	2021	51	3.2258064516129
+Chiang Rai	non-BMR	2021	52	8.19354838709677
+Chiang Rai	non-BMR	2022	1	30
+Chiang Rai	non-BMR	2022	2	1
+Chiang Rai	non-BMR	2022	4	5
+Chiang Rai	non-BMR	2022	5	10
+Chiang Rai	non-BMR	2022	6	9
+Chiang Rai	non-BMR	2022	7	2
+Chiang Rai	non-BMR	2022	8	7
+Chiang Rai	non-BMR	2022	9	5
+Chiang Rai	non-BMR	2022	10	5
+Chiang Rai	non-BMR	2022	11	10
+Chiang Rai	non-BMR	2022	12	7
+Chiang Rai	non-BMR	2022	13	10
+Chiang Rai	non-BMR	2022	14	6
+Chiang Rai	non-BMR	2022	15	5
+Chiang Rai	non-BMR	2022	16	5
+Chiang Rai	non-BMR	2022	17	7
+Chiang Rai	non-BMR	2022	18	5
+Chiang Rai	non-BMR	2022	19	3
+Chiang Rai	non-BMR	2022	20	1
+Chiang Rai	non-BMR	2022	21	2
+Chiang Rai	non-BMR	2022	22	1
+Chiang Rai	non-BMR	2022	23	2
+Chiang Rai	non-BMR	2022	24	3
+Chiang Rai	non-BMR	2022	25	2
+Chiang Rai	non-BMR	2022	26	1
+Chiang Rai	non-BMR	2022	27	4
+Chiang Rai	non-BMR	2022	28	2
+Chiang Rai	non-BMR	2022	29	6
+Chiang Rai	non-BMR	2022	30	1
+Chiang Rai	non-BMR	2022	31	13
+Chiang Rai	non-BMR	2022	32	4
+Chiang Rai	non-BMR	2022	33	10
+Chiang Rai	non-BMR	2022	34	4
+Chiang Rai	non-BMR	2022	35	6
+Chiang Rai	non-BMR	2022	36	1
+Chon Buri	non-BMR	2020	42	1
+Chon Buri	non-BMR	2020	43	2
+Chon Buri	non-BMR	2020	46	1
+Chon Buri	non-BMR	2020	48	2
+Chon Buri	non-BMR	2020	49	0.161290322580645
+Chon Buri	non-BMR	2020	50	0.225806451612903
+Chon Buri	non-BMR	2020	51	0.225806451612903
+Chon Buri	non-BMR	2020	52	0.225806451612903
+Chon Buri	non-BMR	2020	53	0.161290322580645
+Chon Buri	non-BMR	2021	2	1
+Chon Buri	non-BMR	2021	11	1
+Chon Buri	non-BMR	2021	15	6
+Chon Buri	non-BMR	2021	16	1
+Chon Buri	non-BMR	2021	19	28
+Chon Buri	non-BMR	2021	20	21
+Chon Buri	non-BMR	2021	21	2
+Chon Buri	non-BMR	2021	22	0.166666666666667
+Chon Buri	non-BMR	2021	23	3.23333333333333
+Chon Buri	non-BMR	2021	24	5.23333333333333
+Chon Buri	non-BMR	2021	25	1.23333333333333
+Chon Buri	non-BMR	2021	26	0.326881720430107
+Chon Buri	non-BMR	2021	27	0.451612903225806
+Chon Buri	non-BMR	2021	28	1.45161290322581
+Chon Buri	non-BMR	2021	29	0.451612903225806
+Chon Buri	non-BMR	2021	30	0.451612903225806
+Chon Buri	non-BMR	2021	31	3.45161290322581
+Chon Buri	non-BMR	2021	32	0.451612903225806
+Chon Buri	non-BMR	2021	33	0.451612903225806
+Chon Buri	non-BMR	2021	34	1.45161290322581
+Chon Buri	non-BMR	2021	35	9.72688172043011
+Chon Buri	non-BMR	2021	36	1.93333333333333
+Chon Buri	non-BMR	2021	37	2.93333333333333
+Chon Buri	non-BMR	2021	38	6.93333333333333
+Chon Buri	non-BMR	2021	39	5.11827956989247
+Chon Buri	non-BMR	2021	40	67.5806451612903
+Chon Buri	non-BMR	2021	41	44.5806451612903
+Chon Buri	non-BMR	2021	42	2.58064516129032
+Chon Buri	non-BMR	2021	43	3.58064516129032
+Chon Buri	non-BMR	2021	44	5.62580645161291
+Chon Buri	non-BMR	2021	45	4.63333333333333
+Chon Buri	non-BMR	2021	46	5.63333333333334
+Chon Buri	non-BMR	2021	47	3.63333333333334
+Chon Buri	non-BMR	2021	48	4.95806451612903
+Chon Buri	non-BMR	2021	49	11.4516129032258
+Chon Buri	non-BMR	2021	50	3.45161290322581
+Chon Buri	non-BMR	2021	51	10.4516129032258
+Chon Buri	non-BMR	2021	52	11.4516129032258
+Chon Buri	non-BMR	2022	1	3.45161290322581
+Chon Buri	non-BMR	2022	2	0.451612903225806
+Chon Buri	non-BMR	2022	3	0.451612903225806
+Chon Buri	non-BMR	2022	4	0.451612903225806
+Chon Buri	non-BMR	2022	5	16.6647465437788
+Chon Buri	non-BMR	2022	6	15.75
+Chon Buri	non-BMR	2022	7	18.75
+Chon Buri	non-BMR	2022	8	87.75
+Chon Buri	non-BMR	2022	9	22.6981566820276
+Chon Buri	non-BMR	2022	10	42.6774193548387
+Chon Buri	non-BMR	2022	11	23.6774193548387
+Chon Buri	non-BMR	2022	12	34.6774193548387
+Chon Buri	non-BMR	2022	13	3.7505376344086
+Chon Buri	non-BMR	2022	14	4.93333333333333
+Chon Buri	non-BMR	2022	15	1.93333333333333
+Chon Buri	non-BMR	2022	16	3.93333333333333
+Chon Buri	non-BMR	2022	17	18.9333333333333
+Chon Buri	non-BMR	2022	18	26.3548387096774
+Chon Buri	non-BMR	2022	19	14.3548387096774
+Chon Buri	non-BMR	2022	20	10.3548387096774
+Chon Buri	non-BMR	2022	21	5.35483870967742
+Chon Buri	non-BMR	2022	22	0.580645161290322
+Chon Buri	non-BMR	2022	25	8
+Chon Buri	non-BMR	2022	26	7.12903225806452
+Chon Buri	non-BMR	2022	27	5.4516129032258
+Chon Buri	non-BMR	2022	28	25.4516129032258
+Chon Buri	non-BMR	2022	29	21.4516129032258
+Chon Buri	non-BMR	2022	30	10.4516129032258
+Chon Buri	non-BMR	2022	31	24.0645161290322
+Chon Buri	non-BMR	2022	32	4
+Chon Buri	non-BMR	2022	33	13
+Chon Buri	non-BMR	2022	34	12
+Chon Buri	non-BMR	2022	35	4
+Chon Buri	non-BMR	2022	36	2
+Chumphon	non-BMR	2021	14	1
+Kalasin	non-BMR	2021	12	1
+Kalasin	non-BMR	2021	24	1
+Kalasin	non-BMR	2021	39	0.451612903225806
+Kalasin	non-BMR	2021	40	1.58064516129032
+Kalasin	non-BMR	2021	41	1.58064516129032
+Kalasin	non-BMR	2021	42	1.58064516129032
+Kalasin	non-BMR	2021	43	1.58064516129032
+Kalasin	non-BMR	2021	44	0.225806451612903
+Kalasin	non-BMR	2021	51	93
+Kalasin	non-BMR	2021	52	44
+Kalasin	non-BMR	2022	1	3
+Kalasin	non-BMR	2022	2	20
+Kalasin	non-BMR	2022	3	13
+Kalasin	non-BMR	2022	4	5
+Kalasin	non-BMR	2022	5	12.6071428571428
+Kalasin	non-BMR	2022	6	20.25
+Kalasin	non-BMR	2022	7	21.25
+Kalasin	non-BMR	2022	8	23.25
+Kalasin	non-BMR	2022	9	15.7718894009217
+Kalasin	non-BMR	2022	10	12.5806451612903
+Kalasin	non-BMR	2022	11	6.58064516129032
+Kalasin	non-BMR	2022	12	4.58064516129032
+Kalasin	non-BMR	2022	13	5.92903225806452
+Kalasin	non-BMR	2022	14	2.8
+Kalasin	non-BMR	2022	15	2.8
+Kalasin	non-BMR	2022	16	3.79999999999999
+Kalasin	non-BMR	2022	17	6.79999999999999
+Kalasin	non-BMR	2022	18	15.9032258064516
+Kalasin	non-BMR	2022	19	27.9032258064516
+Kalasin	non-BMR	2022	20	12.9032258064516
+Kalasin	non-BMR	2022	21	23.9032258064516
+Kalasin	non-BMR	2022	22	26.3870967741936
+Kalasin	non-BMR	2022	23	22
+Kalasin	non-BMR	2022	24	22
+Kalasin	non-BMR	2022	25	25
+Kalasin	non-BMR	2022	26	28
+Kalasin	non-BMR	2022	27	3
+Kalasin	non-BMR	2022	28	17
+Kalasin	non-BMR	2022	29	3
+Kalasin	non-BMR	2022	30	7
+Kalasin	non-BMR	2022	31	10
+Kalasin	non-BMR	2022	32	1
+Kalasin	non-BMR	2022	33	1
+Kalasin	non-BMR	2022	34	1
+Kalasin	non-BMR	2022	35	11
+Kamphaeng Phet	non-BMR	2021	29	7
+Kamphaeng Phet	non-BMR	2021	30	9
+Kamphaeng Phet	non-BMR	2021	31	7
+Kamphaeng Phet	non-BMR	2021	32	5
+Kamphaeng Phet	non-BMR	2021	33	6
+Kamphaeng Phet	non-BMR	2021	34	5
+Kamphaeng Phet	non-BMR	2021	35	4
+Kamphaeng Phet	non-BMR	2021	36	5
+Kamphaeng Phet	non-BMR	2021	37	6
+Kamphaeng Phet	non-BMR	2021	38	5
+Kamphaeng Phet	non-BMR	2021	39	7
+Kamphaeng Phet	non-BMR	2021	40	7
+Kamphaeng Phet	non-BMR	2021	41	4
+Kamphaeng Phet	non-BMR	2021	42	2
+Kamphaeng Phet	non-BMR	2021	43	4
+Kamphaeng Phet	non-BMR	2021	44	3
+Kamphaeng Phet	non-BMR	2021	45	2
+Kamphaeng Phet	non-BMR	2021	46	3
+Kamphaeng Phet	non-BMR	2021	48	5
+Kamphaeng Phet	non-BMR	2021	49	8
+Kamphaeng Phet	non-BMR	2021	50	3
+Kamphaeng Phet	non-BMR	2021	51	4
+Kamphaeng Phet	non-BMR	2021	52	5.03225806451613
+Kamphaeng Phet	non-BMR	2022	1	7.2258064516129
+Kamphaeng Phet	non-BMR	2022	2	0.225806451612903
+Kamphaeng Phet	non-BMR	2022	3	0.225806451612903
+Kamphaeng Phet	non-BMR	2022	4	0.225806451612903
+Kamphaeng Phet	non-BMR	2022	5	0.0645161290322581
+Kanchanaburi	non-BMR	2021	19	2
+Kanchanaburi	non-BMR	2021	37	1
+Kanchanaburi	non-BMR	2021	39	0.0645161290322581
+Kanchanaburi	non-BMR	2021	40	0.225806451612903
+Kanchanaburi	non-BMR	2021	41	0.225806451612903
+Kanchanaburi	non-BMR	2021	42	0.225806451612903
+Kanchanaburi	non-BMR	2021	43	0.225806451612903
+Kanchanaburi	non-BMR	2021	44	0.032258064516129
+Kanchanaburi	non-BMR	2021	49	1
+Kanchanaburi	non-BMR	2021	50	3
+Kanchanaburi	non-BMR	2021	51	3
+Kanchanaburi	non-BMR	2021	52	2.12903225806452
+Kanchanaburi	non-BMR	2022	1	1.90322580645162
+Kanchanaburi	non-BMR	2022	2	0.903225806451612
+Kanchanaburi	non-BMR	2022	3	0.903225806451612
+Kanchanaburi	non-BMR	2022	4	0.903225806451612
+Kanchanaburi	non-BMR	2022	5	0.258064516129032
+Kanchanaburi	non-BMR	2022	9	0.64516129032258
+Kanchanaburi	non-BMR	2022	10	1.90322580645162
+Kanchanaburi	non-BMR	2022	11	0.903225806451612
+Kanchanaburi	non-BMR	2022	12	0.903225806451612
+Kanchanaburi	non-BMR	2022	13	0.711827956989247
+Kanchanaburi	non-BMR	2022	14	0.233333333333333
+Kanchanaburi	non-BMR	2022	15	0.233333333333333
+Kanchanaburi	non-BMR	2022	16	0.233333333333333
+Kanchanaburi	non-BMR	2022	17	2.23333333333333
+Kanchanaburi	non-BMR	2022	18	0.451612903225806
+Kanchanaburi	non-BMR	2022	19	1.45161290322581
+Kanchanaburi	non-BMR	2022	20	0.451612903225806
+Kanchanaburi	non-BMR	2022	21	0.451612903225806
+Kanchanaburi	non-BMR	2022	22	0.460215053763441
+Kanchanaburi	non-BMR	2022	23	0.466666666666667
+Kanchanaburi	non-BMR	2022	24	0.466666666666667
+Kanchanaburi	non-BMR	2022	25	0.466666666666667
+Kanchanaburi	non-BMR	2022	26	6.33333333333333
+Kanchanaburi	non-BMR	2022	28	2
+Kanchanaburi	non-BMR	2022	29	9
+Kanchanaburi	non-BMR	2022	30	1
+Kanchanaburi	non-BMR	2022	31	10
+Khon Kaen	non-BMR	2021	5	3
+Khon Kaen	non-BMR	2021	9	0.193548387096774
+Khon Kaen	non-BMR	2021	10	0.225806451612903
+Khon Kaen	non-BMR	2021	11	0.225806451612903
+Khon Kaen	non-BMR	2021	12	0.225806451612903
+Khon Kaen	non-BMR	2021	13	0.229032258064516
+Khon Kaen	non-BMR	2021	14	0.233333333333333
+Khon Kaen	non-BMR	2021	15	0.233333333333333
+Khon Kaen	non-BMR	2021	16	0.233333333333333
+Khon Kaen	non-BMR	2021	17	0.2
+Khon Kaen	non-BMR	2021	22	0.5
+Khon Kaen	non-BMR	2021	23	0.7
+Khon Kaen	non-BMR	2021	24	0.7
+Khon Kaen	non-BMR	2021	25	0.7
+Khon Kaen	non-BMR	2021	26	0.496774193548387
+Khon Kaen	non-BMR	2021	27	0.225806451612903
+Khon Kaen	non-BMR	2021	28	0.225806451612903
+Khon Kaen	non-BMR	2021	29	0.225806451612903
+Khon Kaen	non-BMR	2021	30	0.225806451612903
+Khon Kaen	non-BMR	2021	35	11
+Khon Kaen	non-BMR	2021	39	4.64516129032258
+Khon Kaen	non-BMR	2021	40	2.25806451612903
+Khon Kaen	non-BMR	2021	41	3.25806451612903
+Khon Kaen	non-BMR	2021	42	2.25806451612903
+Khon Kaen	non-BMR	2021	43	5.25806451612903
+Khon Kaen	non-BMR	2021	44	0.32258064516129
+Khon Kaen	non-BMR	2021	47	14
+Khon Kaen	non-BMR	2021	48	10
+Khon Kaen	non-BMR	2021	49	2
+Khon Kaen	non-BMR	2021	50	2
+Khon Kaen	non-BMR	2021	51	22
+Khon Kaen	non-BMR	2021	52	26.0967741935484
+Khon Kaen	non-BMR	2022	1	49.6774193548387
+Khon Kaen	non-BMR	2022	2	39.6774193548387
+Khon Kaen	non-BMR	2022	3	35.6774193548387
+Khon Kaen	non-BMR	2022	4	17.6774193548387
+Khon Kaen	non-BMR	2022	5	46.9078341013825
+Khon Kaen	non-BMR	2022	6	12
+Khon Kaen	non-BMR	2022	7	20
+Khon Kaen	non-BMR	2022	8	42
+Khon Kaen	non-BMR	2022	9	14.0921658986175
+Khon Kaen	non-BMR	2022	10	5.12903225806452
+Khon Kaen	non-BMR	2022	11	11.1290322580645
+Khon Kaen	non-BMR	2022	12	14.1290322580645
+Khon Kaen	non-BMR	2022	13	11.8731182795699
+Khon Kaen	non-BMR	2022	14	3.73333333333334
+Khon Kaen	non-BMR	2022	15	3.73333333333334
+Khon Kaen	non-BMR	2022	16	3.73333333333334
+Khon Kaen	non-BMR	2022	17	7.73333333333333
+Khon Kaen	non-BMR	2022	18	49.0322580645161
+Khon Kaen	non-BMR	2022	19	41.0322580645161
+Khon Kaen	non-BMR	2022	20	34.0322580645161
+Khon Kaen	non-BMR	2022	21	42.0322580645161
+Khon Kaen	non-BMR	2022	22	47.8709677419355
+Khon Kaen	non-BMR	2022	23	29
+Khon Kaen	non-BMR	2022	24	32
+Khon Kaen	non-BMR	2022	25	33
+Khon Kaen	non-BMR	2022	26	19
+Khon Kaen	non-BMR	2022	27	10
+Khon Kaen	non-BMR	2022	28	5
+Khon Kaen	non-BMR	2022	29	2
+Khon Kaen	non-BMR	2022	30	10
+Khon Kaen	non-BMR	2022	31	10.1935483870968
+Khon Kaen	non-BMR	2022	32	0.225806451612903
+Khon Kaen	non-BMR	2022	33	1.2258064516129
+Khon Kaen	non-BMR	2022	34	3.2258064516129
+Khon Kaen	non-BMR	2022	35	5.12903225806452
+Krabi	non-BMR	2021	26	1
+Krabi	non-BMR	2021	36	6
+Krabi	non-BMR	2021	47	10
+Krabi	non-BMR	2021	48	15
+Krabi	non-BMR	2021	49	4
+Krabi	non-BMR	2021	50	3
+Krabi	non-BMR	2022	28	2
+Krabi	non-BMR	2022	29	1
+Krabi	non-BMR	2022	30	1
+Lampang	non-BMR	2021	34	1
+Lampang	non-BMR	2021	36	1
+Lampang	non-BMR	2021	38	1
+Lampang	non-BMR	2021	39	1
+Lampang	non-BMR	2021	40	2
+Lampang	non-BMR	2021	41	4
+Lampang	non-BMR	2021	42	3
+Lampang	non-BMR	2021	43	19
+Lampang	non-BMR	2021	44	7.8
+Lampang	non-BMR	2021	45	4.1
+Lampang	non-BMR	2021	46	2.1
+Lampang	non-BMR	2021	47	9.1
+Lampang	non-BMR	2021	48	42.9
+Lampang	non-BMR	2021	49	21
+Lampang	non-BMR	2021	50	5
+Lampang	non-BMR	2021	52	1
+Lampang	non-BMR	2022	2	2
+Lampang	non-BMR	2022	3	5
+Lampang	non-BMR	2022	4	1
+Lampang	non-BMR	2022	5	2
+Lampang	non-BMR	2022	6	13
+Lampang	non-BMR	2022	7	8
+Lampang	non-BMR	2022	8	2
+Lampang	non-BMR	2022	9	4
+Lampang	non-BMR	2022	11	4
+Lampang	non-BMR	2022	12	7
+Lampang	non-BMR	2022	13	1
+Lampang	non-BMR	2022	18	1
+Lampang	non-BMR	2022	19	9
+Lampang	non-BMR	2022	20	11
+Lampang	non-BMR	2022	21	7
+Lampang	non-BMR	2022	23	5
+Lampang	non-BMR	2022	24	5
+Lampang	non-BMR	2022	25	8
+Lampang	non-BMR	2022	26	6
+Lampang	non-BMR	2022	27	2
+Lampang	non-BMR	2022	28	2
+Lampang	non-BMR	2022	30	1
+Lampang	non-BMR	2022	31	4
+Lampang	non-BMR	2022	32	8
+Lampang	non-BMR	2022	33	4
+Lampang	non-BMR	2022	34	2
+Lamphun	non-BMR	2021	15	1
+Lamphun	non-BMR	2021	16	15
+Lamphun	non-BMR	2021	17	2
+Lamphun	non-BMR	2021	18	2
+Lamphun	non-BMR	2021	27	2
+Lamphun	non-BMR	2021	39	1
+Lamphun	non-BMR	2021	43	3
+Lamphun	non-BMR	2021	44	1
+Lamphun	non-BMR	2021	45	3
+Lamphun	non-BMR	2021	46	7
+Lamphun	non-BMR	2021	48	5
+Lamphun	non-BMR	2021	51	3
+Lamphun	non-BMR	2022	2	3
+Lamphun	non-BMR	2022	5	2
+Lamphun	non-BMR	2022	6	3
+Lamphun	non-BMR	2022	9	0.32258064516129
+Lamphun	non-BMR	2022	10	0.451612903225806
+Lamphun	non-BMR	2022	11	2.45161290322581
+Lamphun	non-BMR	2022	12	0.451612903225806
+Lamphun	non-BMR	2022	13	1.32258064516129
+Lamphun	non-BMR	2022	14	1
+Lamphun	non-BMR	2022	27	1
+Lamphun	non-BMR	2022	28	1
+Lamphun	non-BMR	2022	32	5
+Lamphun	non-BMR	2022	33	1
+Loei	non-BMR	2021	2	1
+Loei	non-BMR	2021	18	4
+Loei	non-BMR	2021	22	0.166666666666667
+Loei	non-BMR	2021	23	0.233333333333333
+Loei	non-BMR	2021	24	0.233333333333333
+Loei	non-BMR	2021	25	0.233333333333333
+Loei	non-BMR	2021	26	0.133333333333333
+Loei	non-BMR	2021	31	0.225806451612903
+Loei	non-BMR	2021	32	0.225806451612903
+Loei	non-BMR	2021	33	0.225806451612903
+Loei	non-BMR	2021	34	89.2258064516129
+Loei	non-BMR	2021	35	44.2301075268817
+Loei	non-BMR	2021	36	35.2333333333333
+Loei	non-BMR	2021	37	4.23333333333333
+Loei	non-BMR	2021	38	0.233333333333333
+Loei	non-BMR	2021	39	34.1666666666667
+Loei	non-BMR	2021	40	37
+Loei	non-BMR	2021	41	14
+Loei	non-BMR	2021	45	8
+Loei	non-BMR	2021	46	7
+Loei	non-BMR	2021	48	13
+Loei	non-BMR	2021	49	5
+Loei	non-BMR	2021	50	2
+Loei	non-BMR	2021	51	2
+Loei	non-BMR	2022	5	0.178571428571429
+Loei	non-BMR	2022	6	0.25
+Loei	non-BMR	2022	7	0.25
+Loei	non-BMR	2022	8	0.25
+Loei	non-BMR	2022	9	0.394009216589862
+Loei	non-BMR	2022	10	0.451612903225806
+Loei	non-BMR	2022	11	0.451612903225806
+Loei	non-BMR	2022	12	0.451612903225806
+Loei	non-BMR	2022	13	0.455913978494623
+Loei	non-BMR	2022	14	0.466666666666666
+Loei	non-BMR	2022	15	0.466666666666666
+Loei	non-BMR	2022	16	0.466666666666666
+Loei	non-BMR	2022	17	0.466666666666666
+Loei	non-BMR	2022	18	0.225806451612903
+Loei	non-BMR	2022	19	0.225806451612903
+Loei	non-BMR	2022	20	0.225806451612903
+Loei	non-BMR	2022	21	0.225806451612903
+Loei	non-BMR	2022	22	0.63010752688172
+Loei	non-BMR	2022	23	0.933333333333333
+Loei	non-BMR	2022	24	0.933333333333333
+Loei	non-BMR	2022	25	0.933333333333333
+Loei	non-BMR	2022	26	0.666666666666667
+Lop Buri	non-BMR	2021	1	1
+Lop Buri	non-BMR	2021	14	1
+Lop Buri	non-BMR	2021	15	2
+Lop Buri	non-BMR	2021	16	3
+Lop Buri	non-BMR	2021	39	0.193548387096774
+Lop Buri	non-BMR	2021	40	0.67741935483871
+Lop Buri	non-BMR	2021	41	0.67741935483871
+Lop Buri	non-BMR	2021	42	0.67741935483871
+Lop Buri	non-BMR	2021	43	0.67741935483871
+Lop Buri	non-BMR	2021	44	0.0967741935483871
+Lop Buri	non-BMR	2022	9	0.161290322580645
+Lop Buri	non-BMR	2022	10	0.225806451612903
+Lop Buri	non-BMR	2022	11	1.2258064516129
+Lop Buri	non-BMR	2022	12	0.225806451612903
+Lop Buri	non-BMR	2022	13	0.161290322580645
+Lop Buri	non-BMR	2022	18	1
+Lop Buri	non-BMR	2022	19	1
+Mae Hong Son	non-BMR	2021	41	2
+Mae Hong Son	non-BMR	2021	43	4
+Mae Hong Son	non-BMR	2021	44	17
+Mae Hong Son	non-BMR	2021	45	1
+Mae Hong Son	non-BMR	2021	46	5
+Mae Hong Son	non-BMR	2021	47	3
+Mae Hong Son	non-BMR	2021	48	5
+Mae Hong Son	non-BMR	2021	49	7
+Mae Hong Son	non-BMR	2021	50	2
+Mae Hong Son	non-BMR	2022	1	1
+Mae Hong Son	non-BMR	2022	2	2
+Mae Hong Son	non-BMR	2022	3	2
+Mae Hong Son	non-BMR	2022	6	7
+Mae Hong Son	non-BMR	2022	7	3
+Mae Hong Son	non-BMR	2022	12	2
+Mae Hong Son	non-BMR	2022	14	1
+Mae Hong Son	non-BMR	2022	15	1
+Mae Hong Son	non-BMR	2022	19	1
+Mae Hong Son	non-BMR	2022	20	6
+Mae Hong Son	non-BMR	2022	22	0.533333333333333
+Mae Hong Son	non-BMR	2022	23	0.933333333333333
+Mae Hong Son	non-BMR	2022	24	0.933333333333333
+Mae Hong Son	non-BMR	2022	25	1.93333333333333
+Mae Hong Son	non-BMR	2022	26	1.66666666666667
+Mae Hong Son	non-BMR	2022	27	1
+Mae Hong Son	non-BMR	2022	29	1
+Mae Hong Son	non-BMR	2022	30	2
+Mae Hong Son	non-BMR	2022	31	3
+Mae Hong Son	non-BMR	2022	32	8
+Mae Hong Son	non-BMR	2022	33	3
+Mae Hong Son	non-BMR	2022	34	3
+Maha Sarakham	non-BMR	2021	9	0.193548387096774
+Maha Sarakham	non-BMR	2021	10	0.225806451612903
+Maha Sarakham	non-BMR	2021	11	0.225806451612903
+Maha Sarakham	non-BMR	2021	12	0.225806451612903
+Maha Sarakham	non-BMR	2021	13	0.329032258064516
+Maha Sarakham	non-BMR	2021	14	0.466666666666667
+Maha Sarakham	non-BMR	2021	15	0.466666666666667
+Maha Sarakham	non-BMR	2021	16	0.466666666666667
+Maha Sarakham	non-BMR	2021	17	0.4
+Maha Sarakham	non-BMR	2021	20	2
+Maha Sarakham	non-BMR	2021	25	1
+Maha Sarakham	non-BMR	2021	38	1
+Maha Sarakham	non-BMR	2021	41	1
+Maha Sarakham	non-BMR	2021	51	13
+Maha Sarakham	non-BMR	2021	52	0.0645161290322581
+Maha Sarakham	non-BMR	2022	1	1.45161290322581
+Maha Sarakham	non-BMR	2022	2	23.4516129032258
+Maha Sarakham	non-BMR	2022	3	32.4516129032258
+Maha Sarakham	non-BMR	2022	4	44.4516129032258
+Maha Sarakham	non-BMR	2022	5	116.664746543779
+Maha Sarakham	non-BMR	2022	6	54.75
+Maha Sarakham	non-BMR	2022	7	20.75
+Maha Sarakham	non-BMR	2022	8	98.75
+Maha Sarakham	non-BMR	2022	9	22.5046082949309
+Maha Sarakham	non-BMR	2022	10	17.8064516129032
+Maha Sarakham	non-BMR	2022	11	12.8064516129032
+Maha Sarakham	non-BMR	2022	12	6.80645161290323
+Maha Sarakham	non-BMR	2022	13	2.35698924731183
+Maha Sarakham	non-BMR	2022	14	0.233333333333333
+Maha Sarakham	non-BMR	2022	15	0.233333333333333
+Maha Sarakham	non-BMR	2022	16	0.233333333333333
+Maha Sarakham	non-BMR	2022	17	0.233333333333333
+Maha Sarakham	non-BMR	2022	18	22
+Maha Sarakham	non-BMR	2022	19	32
+Maha Sarakham	non-BMR	2022	20	4
+Maha Sarakham	non-BMR	2022	21	7
+Maha Sarakham	non-BMR	2022	22	11
+Maha Sarakham	non-BMR	2022	23	7
+Maha Sarakham	non-BMR	2022	24	4
+Maha Sarakham	non-BMR	2022	25	2
+Maha Sarakham	non-BMR	2022	26	5
+Mukdahan	non-BMR	2021	48	5.64516129032258
+Mukdahan	non-BMR	2021	49	1.12903225806452
+Mukdahan	non-BMR	2021	50	1.12903225806452
+Mukdahan	non-BMR	2021	51	1.12903225806452
+Mukdahan	non-BMR	2021	52	0.967741935483871
+Mukdahan	non-BMR	2022	6	3
+Mukdahan	non-BMR	2022	11	1
+Mukdahan	non-BMR	2022	18	1
+Mukdahan	non-BMR	2022	31	7
+Mukdahan	non-BMR	2022	33	3
+Nakhon Nayok	non-BMR	2021	9	2
+Nakhon Nayok	non-BMR	2021	50	2
+Nakhon Nayok	non-BMR	2021	51	2
+Nakhon Nayok	non-BMR	2021	52	1
+Nakhon Nayok	non-BMR	2022	1	5
+Nakhon Nayok	non-BMR	2022	7	3
+Nakhon Nayok	non-BMR	2022	17	1
+Nakhon Nayok	non-BMR	2022	22	1
+Nakhon Nayok	non-BMR	2022	35	0.1
+Nakhon Nayok	non-BMR	2022	36	0.233333333333333
+Nakhon Nayok	non-BMR	2022	37	0.233333333333333
+Nakhon Nayok	non-BMR	2022	38	0.233333333333333
+Nakhon Nayok	non-BMR	2022	39	0.2
+Nakhon Pathom	Nakhon Pathom	2021	22	1.16666666666667
+Nakhon Pathom	Nakhon Pathom	2021	23	0.233333333333333
+Nakhon Pathom	Nakhon Pathom	2021	24	0.233333333333333
+Nakhon Pathom	Nakhon Pathom	2021	25	0.233333333333333
+Nakhon Pathom	Nakhon Pathom	2021	26	0.133333333333333
+Nakhon Pathom	Nakhon Pathom	2021	37	2
+Nakhon Pathom	Nakhon Pathom	2021	51	2
+Nakhon Pathom	Nakhon Pathom	2021	52	0.064516129032258
+Nakhon Pathom	Nakhon Pathom	2022	1	2.4516129032258
+Nakhon Pathom	Nakhon Pathom	2022	2	0.451612903225806
+Nakhon Pathom	Nakhon Pathom	2022	3	3.4516129032258
+Nakhon Pathom	Nakhon Pathom	2022	4	0.451612903225806
+Nakhon Pathom	Nakhon Pathom	2022	5	2.45046082949309
+Nakhon Pathom	Nakhon Pathom	2022	6	3.25
+Nakhon Pathom	Nakhon Pathom	2022	7	3.25
+Nakhon Pathom	Nakhon Pathom	2022	8	3.25
+Nakhon Pathom	Nakhon Pathom	2022	9	2.08986175115207
+Nakhon Pathom	Nakhon Pathom	2022	10	0.225806451612903
+Nakhon Pathom	Nakhon Pathom	2022	11	0.225806451612903
+Nakhon Pathom	Nakhon Pathom	2022	12	0.225806451612903
+Nakhon Pathom	Nakhon Pathom	2022	13	0.161290322580645
+Nakhon Pathom	Nakhon Pathom	2022	17	2
+Nakhon Pathom	Nakhon Pathom	2022	21	1
+Nakhon Pathom	Nakhon Pathom	2022	29	1
+Nakhon Phanom	non-BMR	2021	15	3
+Nakhon Phanom	non-BMR	2021	16	5
+Nakhon Phanom	non-BMR	2021	17	4
+Nakhon Phanom	non-BMR	2021	26	3
+Nakhon Phanom	non-BMR	2021	27	1
+Nakhon Phanom	non-BMR	2021	29	1
+Nakhon Phanom	non-BMR	2021	31	1
+Nakhon Phanom	non-BMR	2021	32	3
+Nakhon Phanom	non-BMR	2021	34	1
+Nakhon Phanom	non-BMR	2021	35	2
+Nakhon Phanom	non-BMR	2021	36	2
+Nakhon Phanom	non-BMR	2021	38	1
+Nakhon Phanom	non-BMR	2021	40	3
+Nakhon Phanom	non-BMR	2021	41	1
+Nakhon Phanom	non-BMR	2021	44	1
+Nakhon Phanom	non-BMR	2021	46	3
+Nakhon Phanom	non-BMR	2021	48	1
+Nakhon Phanom	non-BMR	2022	1	3
+Nakhon Phanom	non-BMR	2022	3	1
+Nakhon Phanom	non-BMR	2022	4	1
+Nakhon Phanom	non-BMR	2022	5	5
+Nakhon Phanom	non-BMR	2022	6	6
+Nakhon Phanom	non-BMR	2022	8	3
+Nakhon Phanom	non-BMR	2022	9	3.16129032258065
+Nakhon Phanom	non-BMR	2022	10	4.2258064516129
+Nakhon Phanom	non-BMR	2022	11	15.2258064516129
+Nakhon Phanom	non-BMR	2022	12	30.2258064516129
+Nakhon Phanom	non-BMR	2022	13	32.1612903225806
+Nakhon Phanom	non-BMR	2022	14	36
+Nakhon Phanom	non-BMR	2022	15	51
+Nakhon Phanom	non-BMR	2022	16	39
+Nakhon Phanom	non-BMR	2022	17	52
+Nakhon Phanom	non-BMR	2022	18	50
+Nakhon Phanom	non-BMR	2022	19	50
+Nakhon Phanom	non-BMR	2022	20	33
+Nakhon Phanom	non-BMR	2022	21	85
+Nakhon Phanom	non-BMR	2022	22	76
+Nakhon Phanom	non-BMR	2022	23	56
+Nakhon Phanom	non-BMR	2022	24	77
+Nakhon Phanom	non-BMR	2022	25	60
+Nakhon Phanom	non-BMR	2022	26	51
+Nakhon Phanom	non-BMR	2022	27	57
+Nakhon Phanom	non-BMR	2022	28	3
+Nakhon Phanom	non-BMR	2022	29	4
+Nakhon Phanom	non-BMR	2022	30	79
+Nakhon Phanom	non-BMR	2022	31	14
+Nakhon Phanom	non-BMR	2022	32	3
+Nakhon Phanom	non-BMR	2022	33	1
+Nakhon Ratchasima	non-BMR	2021	22	0.166666666666667
+Nakhon Ratchasima	non-BMR	2021	23	0.233333333333333
+Nakhon Ratchasima	non-BMR	2021	24	1.23333333333333
+Nakhon Ratchasima	non-BMR	2021	25	0.233333333333333
+Nakhon Ratchasima	non-BMR	2021	26	0.133333333333333
+Nakhon Ratchasima	non-BMR	2021	30	1
+Nakhon Ratchasima	non-BMR	2021	35	1
+Nakhon Ratchasima	non-BMR	2021	51	6
+Nakhon Ratchasima	non-BMR	2021	52	6
+Nakhon Ratchasima	non-BMR	2022	11	1
+Nakhon Ratchasima	non-BMR	2022	12	1
+Nakhon Ratchasima	non-BMR	2022	16	1
+Nakhon Ratchasima	non-BMR	2022	19	2
+Nakhon Ratchasima	non-BMR	2022	21	1
+Nakhon Ratchasima	non-BMR	2022	25	6
+Nakhon Ratchasima	non-BMR	2022	26	8.12903225806452
+Nakhon Ratchasima	non-BMR	2022	27	1.45161290322581
+Nakhon Ratchasima	non-BMR	2022	28	5.45161290322581
+Nakhon Ratchasima	non-BMR	2022	29	0.451612903225806
+Nakhon Ratchasima	non-BMR	2022	30	0.451612903225806
+Nakhon Ratchasima	non-BMR	2022	31	1.06451612903226
+Nakhon Ratchasima	non-BMR	2022	32	2
+Nakhon Sawan	non-BMR	2021	9	1
+Nakhon Sawan	non-BMR	2021	14	3
+Nakhon Sawan	non-BMR	2021	18	2
+Nakhon Sawan	non-BMR	2021	22	0.333333333333333
+Nakhon Sawan	non-BMR	2021	23	4.46666666666667
+Nakhon Sawan	non-BMR	2021	24	0.466666666666667
+Nakhon Sawan	non-BMR	2021	25	0.466666666666667
+Nakhon Sawan	non-BMR	2021	26	2.26666666666667
+Nakhon Sawan	non-BMR	2021	30	1
+Nakhon Sawan	non-BMR	2021	33	1
+Nakhon Sawan	non-BMR	2021	35	2
+Nakhon Sawan	non-BMR	2021	36	3
+Nakhon Sawan	non-BMR	2021	38	1
+Nakhon Sawan	non-BMR	2021	39	1
+Nakhon Sawan	non-BMR	2021	40	5
+Nakhon Sawan	non-BMR	2021	41	1
+Nakhon Sawan	non-BMR	2021	42	1
+Nakhon Sawan	non-BMR	2021	49	11
+Nakhon Sawan	non-BMR	2021	50	1
+Nakhon Sawan	non-BMR	2021	51	7
+Nakhon Sawan	non-BMR	2021	52	5
+Nakhon Sawan	non-BMR	2022	1	3
+Nakhon Sawan	non-BMR	2022	2	2
+Nakhon Sawan	non-BMR	2022	4	1
+Nakhon Sawan	non-BMR	2022	7	1
+Nakhon Sawan	non-BMR	2022	9	2
+Nakhon Sawan	non-BMR	2022	10	2
+Nakhon Sawan	non-BMR	2022	16	2
+Nakhon Sawan	non-BMR	2022	17	3
+Nakhon Sawan	non-BMR	2022	18	5
+Nakhon Sawan	non-BMR	2022	19	4
+Nakhon Sawan	non-BMR	2022	20	3
+Nakhon Sawan	non-BMR	2022	24	2
+Nakhon Sawan	non-BMR	2022	29	5
+Nakhon Sawan	non-BMR	2022	31	1
+Nakhon Sawan	non-BMR	2022	36	2
+Nakhon Si Thammarat	non-BMR	2021	26	0.193548387096774
+Nakhon Si Thammarat	non-BMR	2021	27	2.4516129032258
+Nakhon Si Thammarat	non-BMR	2021	28	1.45161290322581
+Nakhon Si Thammarat	non-BMR	2021	29	0.451612903225806
+Nakhon Si Thammarat	non-BMR	2021	30	6.45161290322581
+Nakhon Si Thammarat	non-BMR	2021	31	5
+Nakhon Si Thammarat	non-BMR	2021	32	1
+Nakhon Si Thammarat	non-BMR	2021	33	1
+Nakhon Si Thammarat	non-BMR	2021	35	0.399999999999999
+Nakhon Si Thammarat	non-BMR	2021	36	0.699999999999999
+Nakhon Si Thammarat	non-BMR	2021	37	1.7
+Nakhon Si Thammarat	non-BMR	2021	38	4.7
+Nakhon Si Thammarat	non-BMR	2021	39	1.5
+Nakhon Si Thammarat	non-BMR	2021	40	2
+Nakhon Si Thammarat	non-BMR	2021	41	3
+Nakhon Si Thammarat	non-BMR	2021	43	3
+Nakhon Si Thammarat	non-BMR	2021	44	10
+Nakhon Si Thammarat	non-BMR	2021	45	2
+Nakhon Si Thammarat	non-BMR	2021	49	10
+Nakhon Si Thammarat	non-BMR	2021	50	12
+Nakhon Si Thammarat	non-BMR	2021	52	0.193548387096774
+Nakhon Si Thammarat	non-BMR	2022	1	1.35483870967742
+Nakhon Si Thammarat	non-BMR	2022	2	1.35483870967742
+Nakhon Si Thammarat	non-BMR	2022	3	3.35483870967742
+Nakhon Si Thammarat	non-BMR	2022	4	1.35483870967742
+Nakhon Si Thammarat	non-BMR	2022	5	0.387096774193548
+Nakhon Si Thammarat	non-BMR	2022	19	1
+Nan	non-BMR	2021	24	3
+Nan	non-BMR	2021	35	0.133333333333333
+Nan	non-BMR	2021	36	0.233333333333333
+Nan	non-BMR	2021	37	0.233333333333333
+Nan	non-BMR	2021	38	0.233333333333333
+Nan	non-BMR	2021	39	0.166666666666667
+Nan	non-BMR	2021	52	1
+Nan	non-BMR	2022	26	0.0645161290322581
+Nan	non-BMR	2022	27	0.225806451612903
+Nan	non-BMR	2022	28	0.225806451612903
+Nan	non-BMR	2022	29	0.225806451612903
+Nan	non-BMR	2022	30	0.225806451612903
+Nan	non-BMR	2022	31	0.032258064516129
+Nan	non-BMR	2022	36	3
+Narathiwat	non-BMR	2021	10	4
+Narathiwat	non-BMR	2021	18	5
+Narathiwat	non-BMR	2021	19	20
+Narathiwat	non-BMR	2021	20	21
+Narathiwat	non-BMR	2021	21	5
+Narathiwat	non-BMR	2021	24	1
+Narathiwat	non-BMR	2021	28	57
+Narathiwat	non-BMR	2021	29	10
+Narathiwat	non-BMR	2021	30	6
+Narathiwat	non-BMR	2021	31	1
+Narathiwat	non-BMR	2021	34	1
+Narathiwat	non-BMR	2021	35	5.13333333333333
+Narathiwat	non-BMR	2021	36	7.73333333333332
+Narathiwat	non-BMR	2021	37	7.73333333333332
+Narathiwat	non-BMR	2021	38	9.73333333333332
+Narathiwat	non-BMR	2021	39	11.1827956989247
+Narathiwat	non-BMR	2021	40	31.8064516129032
+Narathiwat	non-BMR	2021	41	62.8064516129032
+Narathiwat	non-BMR	2021	42	154.806451612904
+Narathiwat	non-BMR	2021	43	4.80645161290323
+Narathiwat	non-BMR	2021	44	15.258064516129
+Narathiwat	non-BMR	2021	45	12
+Narathiwat	non-BMR	2021	47	40
+Narathiwat	non-BMR	2021	48	37
+Narathiwat	non-BMR	2021	49	38
+Narathiwat	non-BMR	2021	50	40
+Narathiwat	non-BMR	2021	51	24
+Narathiwat	non-BMR	2021	52	14
+Narathiwat	non-BMR	2022	1	16
+Narathiwat	non-BMR	2022	2	9
+Nong Bua Lam Phu	non-BMR	2021	14	1
+Nong Bua Lam Phu	non-BMR	2021	15	1
+Nong Bua Lam Phu	non-BMR	2021	35	11
+Nong Bua Lam Phu	non-BMR	2021	36	23
+Nong Bua Lam Phu	non-BMR	2021	37	1
+Nong Bua Lam Phu	non-BMR	2021	44	0.2
+Nong Bua Lam Phu	non-BMR	2021	45	0.233333333333333
+Nong Bua Lam Phu	non-BMR	2021	46	17.2333333333333
+Nong Bua Lam Phu	non-BMR	2021	47	0.233333333333333
+Nong Bua Lam Phu	non-BMR	2021	48	2.1
+Nong Bua Lam Phu	non-BMR	2021	49	4
+Nong Bua Lam Phu	non-BMR	2021	50	1
+Nong Bua Lam Phu	non-BMR	2022	5	3
+Nong Bua Lam Phu	non-BMR	2022	9	0.32258064516129
+Nong Bua Lam Phu	non-BMR	2022	10	0.451612903225806
+Nong Bua Lam Phu	non-BMR	2022	11	0.451612903225806
+Nong Bua Lam Phu	non-BMR	2022	12	0.451612903225806
+Nong Bua Lam Phu	non-BMR	2022	13	0.389247311827957
+Nong Bua Lam Phu	non-BMR	2022	14	0.233333333333333
+Nong Bua Lam Phu	non-BMR	2022	15	0.233333333333333
+Nong Bua Lam Phu	non-BMR	2022	16	0.233333333333333
+Nong Bua Lam Phu	non-BMR	2022	17	0.233333333333333
+Nong Bua Lam Phu	non-BMR	2022	18	0.225806451612903
+Nong Bua Lam Phu	non-BMR	2022	19	0.225806451612903
+Nong Bua Lam Phu	non-BMR	2022	20	0.225806451612903
+Nong Bua Lam Phu	non-BMR	2022	21	1.2258064516129
+Nong Bua Lam Phu	non-BMR	2022	22	0.23010752688172
+Nong Bua Lam Phu	non-BMR	2022	23	0.233333333333333
+Nong Bua Lam Phu	non-BMR	2022	24	0.233333333333333
+Nong Bua Lam Phu	non-BMR	2022	25	0.233333333333333
+Nong Bua Lam Phu	non-BMR	2022	26	0.166666666666667
+Nong Bua Lam Phu	non-BMR	2022	28	1
+Nong Bua Lam Phu	non-BMR	2022	31	0.387096774193548
+Nong Bua Lam Phu	non-BMR	2022	32	0.451612903225806
+Nong Bua Lam Phu	non-BMR	2022	33	0.451612903225806
+Nong Bua Lam Phu	non-BMR	2022	34	0.451612903225806
+Nong Bua Lam Phu	non-BMR	2022	35	0.258064516129032
+Nong Khai	non-BMR	2021	16	1
+Nong Khai	non-BMR	2021	35	2
+Nong Khai	non-BMR	2021	36	5
+Nong Khai	non-BMR	2021	37	18
+Nong Khai	non-BMR	2021	38	1
+Nong Khai	non-BMR	2021	44	0.2
+Nong Khai	non-BMR	2021	45	0.233333333333333
+Nong Khai	non-BMR	2021	46	0.233333333333333
+Nong Khai	non-BMR	2021	47	0.233333333333333
+Nong Khai	non-BMR	2021	48	0.1
+Nong Khai	non-BMR	2021	49	1
+Nong Khai	non-BMR	2021	50	3
+Nong Khai	non-BMR	2021	51	3
+Nong Khai	non-BMR	2021	52	2
+Nong Khai	non-BMR	2022	1	12
+Nong Khai	non-BMR	2022	5	0.357142857142858
+Nong Khai	non-BMR	2022	6	0.5
+Nong Khai	non-BMR	2022	7	0.5
+Nong Khai	non-BMR	2022	8	0.5
+Nong Khai	non-BMR	2022	9	0.304147465437788
+Nong Khai	non-BMR	2022	10	0.225806451612903
+Nong Khai	non-BMR	2022	11	0.225806451612903
+Nong Khai	non-BMR	2022	12	0.225806451612903
+Nong Khai	non-BMR	2022	13	0.294623655913978
+Nong Khai	non-BMR	2022	14	0.466666666666666
+Nong Khai	non-BMR	2022	15	0.466666666666666
+Nong Khai	non-BMR	2022	16	0.466666666666666
+Nong Khai	non-BMR	2022	17	0.466666666666666
+Nong Khai	non-BMR	2022	18	0.451612903225806
+Nong Khai	non-BMR	2022	19	0.451612903225806
+Nong Khai	non-BMR	2022	20	1.45161290322581
+Nong Khai	non-BMR	2022	21	0.451612903225806
+Nong Khai	non-BMR	2022	22	1.79354838709677
+Nong Khai	non-BMR	2022	23	2.8
+Nong Khai	non-BMR	2022	24	2.8
+Nong Khai	non-BMR	2022	25	2.8
+Nong Khai	non-BMR	2022	26	2.12903225806452
+Nong Khai	non-BMR	2022	27	0.451612903225806
+Nong Khai	non-BMR	2022	28	2.45161290322581
+Nong Khai	non-BMR	2022	29	0.451612903225806
+Nong Khai	non-BMR	2022	30	0.451612903225806
+Nong Khai	non-BMR	2022	31	0.258064516129032
+Nong Khai	non-BMR	2022	32	0.225806451612903
+Nong Khai	non-BMR	2022	33	0.225806451612903
+Nong Khai	non-BMR	2022	34	0.225806451612903
+Nong Khai	non-BMR	2022	35	0.129032258064516
+Nonthaburi	Nonthaburi	2020	1	1
+Nonthaburi	Nonthaburi	2020	2	2
+Nonthaburi	Nonthaburi	2020	3	3
+Nonthaburi	Nonthaburi	2020	4	1
+Nonthaburi	Nonthaburi	2020	5	1
+Nonthaburi	Nonthaburi	2020	9	2
+Nonthaburi	Nonthaburi	2020	10	2
+Nonthaburi	Nonthaburi	2020	11	3
+Nonthaburi	Nonthaburi	2020	12	28
+Nonthaburi	Nonthaburi	2020	13	4
+Nonthaburi	Nonthaburi	2020	14	2
+Nonthaburi	Nonthaburi	2020	27	2
+Nonthaburi	Nonthaburi	2020	32	4
+Nonthaburi	Nonthaburi	2020	40	1
+Nonthaburi	Nonthaburi	2021	7	1
+Nonthaburi	Nonthaburi	2021	9	3.87096774193549
+Nonthaburi	Nonthaburi	2021	10	4.51612903225807
+Nonthaburi	Nonthaburi	2021	11	4.51612903225807
+Nonthaburi	Nonthaburi	2021	12	8.51612903225807
+Nonthaburi	Nonthaburi	2021	13	3.58064516129033
+Nonthaburi	Nonthaburi	2021	14	1
+Nonthaburi	Nonthaburi	2021	16	13
+Nonthaburi	Nonthaburi	2021	19	2
+Nonthaburi	Nonthaburi	2021	20	2
+Nonthaburi	Nonthaburi	2021	21	1
+Nonthaburi	Nonthaburi	2021	23	10
+Nonthaburi	Nonthaburi	2021	24	3
+Nonthaburi	Nonthaburi	2021	25	10
+Nonthaburi	Nonthaburi	2021	26	4.09677419354839
+Nonthaburi	Nonthaburi	2021	27	4.2258064516129
+Nonthaburi	Nonthaburi	2021	28	5.2258064516129
+Nonthaburi	Nonthaburi	2021	29	4.2258064516129
+Nonthaburi	Nonthaburi	2021	30	7.2258064516129
+Nonthaburi	Nonthaburi	2021	31	1
+Nonthaburi	Nonthaburi	2021	33	2
+Nonthaburi	Nonthaburi	2021	34	1
+Nonthaburi	Nonthaburi	2021	35	2
+Nonthaburi	Nonthaburi	2021	36	12
+Nonthaburi	Nonthaburi	2021	37	2
+Nonthaburi	Nonthaburi	2021	38	37
+Nonthaburi	Nonthaburi	2021	39	1.70967741935484
+Nonthaburi	Nonthaburi	2021	40	5.48387096774193
+Nonthaburi	Nonthaburi	2021	41	11.4838709677419
+Nonthaburi	Nonthaburi	2021	42	2.48387096774193
+Nonthaburi	Nonthaburi	2021	43	2.48387096774193
+Nonthaburi	Nonthaburi	2021	44	8.75483870967742
+Nonthaburi	Nonthaburi	2021	45	9.8
+Nonthaburi	Nonthaburi	2021	46	9.8
+Nonthaburi	Nonthaburi	2021	47	9.8
+Nonthaburi	Nonthaburi	2021	48	14.3290322580645
+Nonthaburi	Nonthaburi	2021	49	4.2258064516129
+Nonthaburi	Nonthaburi	2021	50	29.2258064516129
+Nonthaburi	Nonthaburi	2021	51	22.2258064516129
+Nonthaburi	Nonthaburi	2021	52	9.2258064516129
+Nonthaburi	Nonthaburi	2022	1	30.2258064516129
+Nonthaburi	Nonthaburi	2022	2	12.2258064516129
+Nonthaburi	Nonthaburi	2022	3	15.2258064516129
+Nonthaburi	Nonthaburi	2022	4	19.2258064516129
+Nonthaburi	Nonthaburi	2022	5	19.6716589861751
+Nonthaburi	Nonthaburi	2022	6	8.25
+Nonthaburi	Nonthaburi	2022	7	20.25
+Nonthaburi	Nonthaburi	2022	8	28.25
+Nonthaburi	Nonthaburi	2022	9	48.9009216589862
+Nonthaburi	Nonthaburi	2022	10	49.1612903225806
+Nonthaburi	Nonthaburi	2022	11	72.1612903225807
+Nonthaburi	Nonthaburi	2022	12	52.1612903225806
+Nonthaburi	Nonthaburi	2022	13	82.3247311827957
+Nonthaburi	Nonthaburi	2022	14	63.2333333333333
+Nonthaburi	Nonthaburi	2022	15	35.2333333333333
+Nonthaburi	Nonthaburi	2022	16	37.2333333333333
+Nonthaburi	Nonthaburi	2022	17	30.2333333333333
+Nonthaburi	Nonthaburi	2022	18	71.3548387096775
+Nonthaburi	Nonthaburi	2022	19	64.3548387096774
+Nonthaburi	Nonthaburi	2022	20	64.3548387096774
+Nonthaburi	Nonthaburi	2022	21	58.3548387096774
+Nonthaburi	Nonthaburi	2022	22	45.5806451612903
+Nonthaburi	Nonthaburi	2022	23	17.5
+Nonthaburi	Nonthaburi	2022	24	21.5
+Nonthaburi	Nonthaburi	2022	25	20.5
+Nonthaburi	Nonthaburi	2022	26	9.91935483870968
+Nonthaburi	Nonthaburi	2022	27	5.96774193548387
+Nonthaburi	Nonthaburi	2022	28	5.96774193548387
+Nonthaburi	Nonthaburi	2022	29	6.96774193548387
+Nonthaburi	Nonthaburi	2022	30	5.96774193548387
+Nonthaburi	Nonthaburi	2022	31	0.709677419354838
+Nonthaburi	Nonthaburi	2022	35	2.1
+Nonthaburi	Nonthaburi	2022	36	0.233333333333333
+Nonthaburi	Nonthaburi	2022	37	0.233333333333333
+Nonthaburi	Nonthaburi	2022	38	0.233333333333333
+Nonthaburi	Nonthaburi	2022	39	0.2
+Pathum Thani	Pathum Thani	2020	53	4
+Pathum Thani	Pathum Thani	2021	1	2
+Pathum Thani	Pathum Thani	2021	2	1
+Pathum Thani	Pathum Thani	2021	6	48
+Pathum Thani	Pathum Thani	2021	7	29
+Pathum Thani	Pathum Thani	2021	8	1
+Pathum Thani	Pathum Thani	2021	10	2
+Pathum Thani	Pathum Thani	2021	15	1
+Pathum Thani	Pathum Thani	2021	16	2
+Pathum Thani	Pathum Thani	2021	17	1
+Pathum Thani	Pathum Thani	2021	19	1
+Pathum Thani	Pathum Thani	2021	22	2
+Pathum Thani	Pathum Thani	2021	23	1
+Pathum Thani	Pathum Thani	2021	24	2
+Pathum Thani	Pathum Thani	2021	25	3
+Pathum Thani	Pathum Thani	2021	26	0.0967741935483871
+Pathum Thani	Pathum Thani	2021	27	0.225806451612903
+Pathum Thani	Pathum Thani	2021	28	3.2258064516129
+Pathum Thani	Pathum Thani	2021	29	0.225806451612903
+Pathum Thani	Pathum Thani	2021	30	0.225806451612903
+Pathum Thani	Pathum Thani	2021	32	2
+Pathum Thani	Pathum Thani	2021	39	0.258064516129032
+Pathum Thani	Pathum Thani	2021	40	0.903225806451613
+Pathum Thani	Pathum Thani	2021	41	0.903225806451613
+Pathum Thani	Pathum Thani	2021	42	0.903225806451613
+Pathum Thani	Pathum Thani	2021	43	0.903225806451613
+Pathum Thani	Pathum Thani	2021	44	4.32903225806452
+Pathum Thani	Pathum Thani	2021	45	4.9
+Pathum Thani	Pathum Thani	2021	46	4.9
+Pathum Thani	Pathum Thani	2021	47	4.9
+Pathum Thani	Pathum Thani	2021	48	2.61612903225807
+Pathum Thani	Pathum Thani	2021	49	0.903225806451613
+Pathum Thani	Pathum Thani	2021	50	0.903225806451613
+Pathum Thani	Pathum Thani	2021	51	0.903225806451613
+Pathum Thani	Pathum Thani	2021	52	1.96774193548387
+Pathum Thani	Pathum Thani	2022	1	1.35483870967742
+Pathum Thani	Pathum Thani	2022	2	2.35483870967742
+Pathum Thani	Pathum Thani	2022	3	1.35483870967742
+Pathum Thani	Pathum Thani	2022	4	2.35483870967742
+Pathum Thani	Pathum Thani	2022	5	0.387096774193548
+Pathum Thani	Pathum Thani	2022	9	15.8064516129032
+Pathum Thani	Pathum Thani	2022	10	22.1290322580646
+Pathum Thani	Pathum Thani	2022	11	26.1290322580646
+Pathum Thani	Pathum Thani	2022	12	22.1290322580646
+Pathum Thani	Pathum Thani	2022	13	18.3397849462366
+Pathum Thani	Pathum Thani	2022	14	8.86666666666667
+Pathum Thani	Pathum Thani	2022	15	8.86666666666667
+Pathum Thani	Pathum Thani	2022	16	9.86666666666667
+Pathum Thani	Pathum Thani	2022	17	10.8666666666667
+Pathum Thani	Pathum Thani	2022	18	13.5161290322581
+Pathum Thani	Pathum Thani	2022	19	11.5161290322581
+Pathum Thani	Pathum Thani	2022	20	11.5161290322581
+Pathum Thani	Pathum Thani	2022	21	12.5161290322581
+Pathum Thani	Pathum Thani	2022	22	6.80215053763441
+Pathum Thani	Pathum Thani	2022	23	3.26666666666667
+Pathum Thani	Pathum Thani	2022	24	3.26666666666667
+Pathum Thani	Pathum Thani	2022	25	3.26666666666667
+Pathum Thani	Pathum Thani	2022	26	6.01075268817204
+Pathum Thani	Pathum Thani	2022	27	13.8709677419355
+Pathum Thani	Pathum Thani	2022	28	15.8709677419355
+Pathum Thani	Pathum Thani	2022	29	17.8709677419355
+Pathum Thani	Pathum Thani	2022	30	12.8709677419355
+Pathum Thani	Pathum Thani	2022	31	4.16129032258065
+Pathum Thani	Pathum Thani	2022	32	2.70967741935484
+Pathum Thani	Pathum Thani	2022	33	2.70967741935484
+Pathum Thani	Pathum Thani	2022	34	2.70967741935484
+Pathum Thani	Pathum Thani	2022	35	2.14838709677419
+Pathum Thani	Pathum Thani	2022	36	1.4
+Pathum Thani	Pathum Thani	2022	37	1.4
+Pathum Thani	Pathum Thani	2022	38	1.4
+Pathum Thani	Pathum Thani	2022	39	1.2
+Pattani	non-BMR	2021	16	2
+Pattani	non-BMR	2021	17	1
+Pattani	non-BMR	2021	18	1
+Pattani	non-BMR	2021	19	1
+Pattani	non-BMR	2021	20	1
+Pattani	non-BMR	2021	21	1
+Pattani	non-BMR	2021	22	0.333333333333333
+Pattani	non-BMR	2021	23	0.466666666666667
+Pattani	non-BMR	2021	24	0.466666666666667
+Pattani	non-BMR	2021	25	0.466666666666667
+Pattani	non-BMR	2021	26	0.266666666666667
+Pattani	non-BMR	2021	31	0.451612903225806
+Pattani	non-BMR	2021	32	0.451612903225806
+Pattani	non-BMR	2021	33	0.451612903225806
+Pattani	non-BMR	2021	34	0.451612903225806
+Pattani	non-BMR	2021	35	1.32688172043011
+Pattani	non-BMR	2021	36	0.233333333333333
+Pattani	non-BMR	2021	37	0.233333333333333
+Pattani	non-BMR	2021	38	0.233333333333333
+Pattani	non-BMR	2021	39	0.682795698924731
+Pattani	non-BMR	2021	40	5.80645161290323
+Pattani	non-BMR	2021	41	37.8064516129032
+Pattani	non-BMR	2021	42	11.8064516129032
+Pattani	non-BMR	2021	43	1.80645161290323
+Pattani	non-BMR	2021	44	4.25806451612904
+Pattani	non-BMR	2021	45	9
+Pattani	non-BMR	2021	47	12
+Pattani	non-BMR	2021	48	16
+Pattani	non-BMR	2021	49	8
+Pattani	non-BMR	2021	50	13
+Pattani	non-BMR	2021	51	1
+Pattani	non-BMR	2021	52	31
+Pattani	non-BMR	2022	1	7
+Pattani	non-BMR	2022	2	5
+Pattani	non-BMR	2022	3	10
+Phangnga	non-BMR	2021	14	1
+Phangnga	non-BMR	2021	15	1
+Phangnga	non-BMR	2021	32	8
+Phangnga	non-BMR	2021	33	2
+Phangnga	non-BMR	2021	36	1
+Phangnga	non-BMR	2021	37	1
+Phangnga	non-BMR	2021	38	1
+Phangnga	non-BMR	2021	40	1
+Phangnga	non-BMR	2022	18	1
+Phatthalung	non-BMR	2021	22	0.166666666666667
+Phatthalung	non-BMR	2021	23	0.233333333333333
+Phatthalung	non-BMR	2021	24	1.23333333333333
+Phatthalung	non-BMR	2021	25	0.233333333333333
+Phatthalung	non-BMR	2021	26	0.133333333333333
+Phatthalung	non-BMR	2021	30	1
+Phatthalung	non-BMR	2021	32	1
+Phatthalung	non-BMR	2021	33	1
+Phatthalung	non-BMR	2021	36	1
+Phatthalung	non-BMR	2021	37	15
+Phatthalung	non-BMR	2021	38	84
+Phatthalung	non-BMR	2021	39	9
+Phatthalung	non-BMR	2021	42	3
+Phatthalung	non-BMR	2021	51	6
+Phatthalung	non-BMR	2021	52	12
+Phatthalung	non-BMR	2022	1	9
+Phatthalung	non-BMR	2022	2	12
+Phatthalung	non-BMR	2022	3	6
+Phatthalung	non-BMR	2022	9	1
+Phatthalung	non-BMR	2022	12	2
+Phayao	non-BMR	2021	13	0.1
+Phayao	non-BMR	2021	14	0.233333333333333
+Phayao	non-BMR	2021	15	2.23333333333333
+Phayao	non-BMR	2021	16	12.2333333333333
+Phayao	non-BMR	2021	17	2.2
+Phayao	non-BMR	2021	18	1
+Phayao	non-BMR	2021	19	1
+Phayao	non-BMR	2021	30	1
+Phayao	non-BMR	2021	32	17
+Phayao	non-BMR	2021	36	1
+Phayao	non-BMR	2021	38	2
+Phayao	non-BMR	2021	40	1
+Phayao	non-BMR	2021	41	2
+Phayao	non-BMR	2021	42	8
+Phayao	non-BMR	2021	43	23
+Phayao	non-BMR	2021	44	16
+Phayao	non-BMR	2021	45	3
+Phayao	non-BMR	2021	51	1
+Phayao	non-BMR	2022	1	5
+Phayao	non-BMR	2022	27	2
+Phayao	non-BMR	2022	31	1
+Phetchabun	non-BMR	2021	22	1
+Phetchabun	non-BMR	2021	45	1
+Phetchabun	non-BMR	2021	46	3
+Phetchabun	non-BMR	2021	49	1
+Phetchabun	non-BMR	2021	50	1
+Phetchabun	non-BMR	2021	51	2
+Phetchabun	non-BMR	2022	5	1.96428571428572
+Phetchabun	non-BMR	2022	6	2.75
+Phetchabun	non-BMR	2022	7	2.75
+Phetchabun	non-BMR	2022	8	2.75
+Phetchabun	non-BMR	2022	9	0.785714285714285
+Phetchabun	non-BMR	2022	12	8
+Phetchabun	non-BMR	2022	22	0.133333333333333
+Phetchabun	non-BMR	2022	23	0.233333333333333
+Phetchabun	non-BMR	2022	24	0.233333333333333
+Phetchabun	non-BMR	2022	25	0.233333333333333
+Phetchabun	non-BMR	2022	26	0.166666666666667
+Phetchaburi	non-BMR	2020	53	0.0164383561643836
+Phetchaburi	non-BMR	2021	1	0.0575342465753425
+Phetchaburi	non-BMR	2021	2	0.0575342465753425
+Phetchaburi	non-BMR	2021	3	0.0575342465753425
+Phetchaburi	non-BMR	2021	4	0.0575342465753425
+Phetchaburi	non-BMR	2021	5	0.0575342465753425
+Phetchaburi	non-BMR	2021	6	0.0575342465753425
+Phetchaburi	non-BMR	2021	7	0.0575342465753425
+Phetchaburi	non-BMR	2021	8	0.0575342465753425
+Phetchaburi	non-BMR	2021	9	0.251082633672117
+Phetchaburi	non-BMR	2021	10	0.283340698188246
+Phetchaburi	non-BMR	2021	11	0.283340698188246
+Phetchaburi	non-BMR	2021	12	0.283340698188246
+Phetchaburi	non-BMR	2021	13	0.186566504639859
+Phetchaburi	non-BMR	2021	14	0.0575342465753425
+Phetchaburi	non-BMR	2021	15	0.0575342465753425
+Phetchaburi	non-BMR	2021	16	0.0575342465753425
+Phetchaburi	non-BMR	2021	17	0.0575342465753425
+Phetchaburi	non-BMR	2021	18	0.0575342465753425
+Phetchaburi	non-BMR	2021	19	0.0575342465753425
+Phetchaburi	non-BMR	2021	20	0.0575342465753425
+Phetchaburi	non-BMR	2021	21	7.05753424657534
+Phetchaburi	non-BMR	2021	22	0.0575342465753425
+Phetchaburi	non-BMR	2021	23	0.0575342465753425
+Phetchaburi	non-BMR	2021	24	0.0575342465753425
+Phetchaburi	non-BMR	2021	25	0.0575342465753425
+Phetchaburi	non-BMR	2021	26	0.0575342465753425
+Phetchaburi	non-BMR	2021	27	0.0575342465753425
+Phetchaburi	non-BMR	2021	28	0.0575342465753425
+Phetchaburi	non-BMR	2021	29	0.0575342465753425
+Phetchaburi	non-BMR	2021	30	0.0575342465753425
+Phetchaburi	non-BMR	2021	31	0.0575342465753425
+Phetchaburi	non-BMR	2021	32	0.0575342465753425
+Phetchaburi	non-BMR	2021	33	0.0575342465753425
+Phetchaburi	non-BMR	2021	34	0.0575342465753425
+Phetchaburi	non-BMR	2021	35	0.0575342465753425
+Phetchaburi	non-BMR	2021	36	0.0575342465753425
+Phetchaburi	non-BMR	2021	37	0.0575342465753425
+Phetchaburi	non-BMR	2021	38	0.0575342465753425
+Phetchaburi	non-BMR	2021	39	0.0575342465753425
+Phetchaburi	non-BMR	2021	40	0.0575342465753425
+Phetchaburi	non-BMR	2021	41	0.0575342465753425
+Phetchaburi	non-BMR	2021	42	0.0575342465753425
+Phetchaburi	non-BMR	2021	43	0.0575342465753425
+Phetchaburi	non-BMR	2021	44	0.0575342465753425
+Phetchaburi	non-BMR	2021	45	0.0575342465753425
+Phetchaburi	non-BMR	2021	46	0.0575342465753425
+Phetchaburi	non-BMR	2021	47	0.0575342465753425
+Phetchaburi	non-BMR	2021	48	0.0575342465753425
+Phetchaburi	non-BMR	2021	49	0.0575342465753425
+Phetchaburi	non-BMR	2021	50	2.05753424657534
+Phetchaburi	non-BMR	2021	51	0.0575342465753425
+Phetchaburi	non-BMR	2021	52	0.0493150684931507
+Phetchaburi	non-BMR	2022	1	1
+Phetchaburi	non-BMR	2022	10	1
+Phetchaburi	non-BMR	2022	18	1
+Phetchaburi	non-BMR	2022	29	2
+Phetchaburi	non-BMR	2022	32	1
+Phichit	non-BMR	2021	48	0.129032258064516
+Phichit	non-BMR	2021	49	0.225806451612903
+Phichit	non-BMR	2021	50	0.225806451612903
+Phichit	non-BMR	2021	51	0.225806451612903
+Phichit	non-BMR	2021	52	0.193548387096774
+Phichit	non-BMR	2022	19	1
+Phitsanulok	non-BMR	2021	13	0.1
+Phitsanulok	non-BMR	2021	14	0.233333333333333
+Phitsanulok	non-BMR	2021	15	1.23333333333333
+Phitsanulok	non-BMR	2021	16	0.233333333333333
+Phitsanulok	non-BMR	2021	17	0.2
+Phitsanulok	non-BMR	2021	18	7
+Phitsanulok	non-BMR	2021	19	7
+Phitsanulok	non-BMR	2021	20	4
+Phitsanulok	non-BMR	2021	21	1
+Phitsanulok	non-BMR	2021	22	0.166666666666667
+Phitsanulok	non-BMR	2021	23	1.23333333333333
+Phitsanulok	non-BMR	2021	24	0.233333333333333
+Phitsanulok	non-BMR	2021	25	0.233333333333333
+Phitsanulok	non-BMR	2021	26	0.423655913978495
+Phitsanulok	non-BMR	2021	27	0.67741935483871
+Phitsanulok	non-BMR	2021	28	0.67741935483871
+Phitsanulok	non-BMR	2021	29	0.67741935483871
+Phitsanulok	non-BMR	2021	30	0.67741935483871
+Phitsanulok	non-BMR	2021	32	1
+Phitsanulok	non-BMR	2021	35	0.266666666666666
+Phitsanulok	non-BMR	2021	36	0.466666666666666
+Phitsanulok	non-BMR	2021	37	0.466666666666666
+Phitsanulok	non-BMR	2021	38	0.466666666666666
+Phitsanulok	non-BMR	2021	39	0.333333333333334
+Phitsanulok	non-BMR	2021	44	12
+Phitsanulok	non-BMR	2021	45	25
+Phitsanulok	non-BMR	2021	46	51
+Phitsanulok	non-BMR	2021	47	22
+Phitsanulok	non-BMR	2021	48	22
+Phitsanulok	non-BMR	2021	49	9
+Phitsanulok	non-BMR	2021	50	13
+Phitsanulok	non-BMR	2021	51	19
+Phitsanulok	non-BMR	2021	52	0.516129032258064
+Phitsanulok	non-BMR	2022	1	4.61290322580646
+Phitsanulok	non-BMR	2022	2	3.61290322580646
+Phitsanulok	non-BMR	2022	3	3.61290322580646
+Phitsanulok	non-BMR	2022	4	3.61290322580646
+Phitsanulok	non-BMR	2022	5	14.1751152073733
+Phitsanulok	non-BMR	2022	6	5
+Phitsanulok	non-BMR	2022	7	4
+Phitsanulok	non-BMR	2022	8	3
+Phitsanulok	non-BMR	2022	9	2.95391705069124
+Phitsanulok	non-BMR	2022	10	2.93548387096775
+Phitsanulok	non-BMR	2022	11	2.93548387096775
+Phitsanulok	non-BMR	2022	12	12.9354838709677
+Phitsanulok	non-BMR	2022	13	3.09677419354839
+Phitsanulok	non-BMR	2022	16	1
+Phitsanulok	non-BMR	2022	18	1.12903225806452
+Phitsanulok	non-BMR	2022	19	1.12903225806452
+Phitsanulok	non-BMR	2022	20	1.12903225806452
+Phitsanulok	non-BMR	2022	21	1.12903225806452
+Phitsanulok	non-BMR	2022	22	0.483870967741935
+Phitsanulok	non-BMR	2022	28	1
+Phra Nakhon Si Ayutthaya	non-BMR	2021	32	1
+Phra Nakhon Si Ayutthaya	non-BMR	2021	38	2
+Phra Nakhon Si Ayutthaya	non-BMR	2021	39	0.387096774193548
+Phra Nakhon Si Ayutthaya	non-BMR	2021	40	1.35483870967742
+Phra Nakhon Si Ayutthaya	non-BMR	2021	41	1.35483870967742
+Phra Nakhon Si Ayutthaya	non-BMR	2021	42	1.35483870967742
+Phra Nakhon Si Ayutthaya	non-BMR	2021	43	8.35483870967742
+Phra Nakhon Si Ayutthaya	non-BMR	2021	44	8.19354838709677
+Phra Nakhon Si Ayutthaya	non-BMR	2021	45	10.3333333333333
+Phra Nakhon Si Ayutthaya	non-BMR	2021	46	9.33333333333334
+Phra Nakhon Si Ayutthaya	non-BMR	2021	47	9.33333333333334
+Phra Nakhon Si Ayutthaya	non-BMR	2021	48	7
+Phra Nakhon Si Ayutthaya	non-BMR	2021	49	6
+Phra Nakhon Si Ayutthaya	non-BMR	2021	51	5
+Phra Nakhon Si Ayutthaya	non-BMR	2021	52	0.129032258064516
+Phra Nakhon Si Ayutthaya	non-BMR	2022	1	1.90322580645162
+Phra Nakhon Si Ayutthaya	non-BMR	2022	2	2.90322580645162
+Phra Nakhon Si Ayutthaya	non-BMR	2022	3	1.90322580645162
+Phra Nakhon Si Ayutthaya	non-BMR	2022	4	4.90322580645162
+Phra Nakhon Si Ayutthaya	non-BMR	2022	5	5.43663594470047
+Phra Nakhon Si Ayutthaya	non-BMR	2022	6	0.25
+Phra Nakhon Si Ayutthaya	non-BMR	2022	7	2.25
+Phra Nakhon Si Ayutthaya	non-BMR	2022	8	3.25
+Phra Nakhon Si Ayutthaya	non-BMR	2022	9	5.03917050691245
+Phra Nakhon Si Ayutthaya	non-BMR	2022	10	4.35483870967742
+Phra Nakhon Si Ayutthaya	non-BMR	2022	11	4.35483870967742
+Phra Nakhon Si Ayutthaya	non-BMR	2022	12	4.35483870967742
+Phra Nakhon Si Ayutthaya	non-BMR	2022	13	3.23440860215054
+Phra Nakhon Si Ayutthaya	non-BMR	2022	14	6.93333333333333
+Phra Nakhon Si Ayutthaya	non-BMR	2022	15	1.93333333333333
+Phra Nakhon Si Ayutthaya	non-BMR	2022	16	3.93333333333333
+Phra Nakhon Si Ayutthaya	non-BMR	2022	17	3.93333333333333
+Phra Nakhon Si Ayutthaya	non-BMR	2022	18	6.2258064516129
+Phra Nakhon Si Ayutthaya	non-BMR	2022	19	2.2258064516129
+Phra Nakhon Si Ayutthaya	non-BMR	2022	20	5.2258064516129
+Phra Nakhon Si Ayutthaya	non-BMR	2022	21	1.2258064516129
+Phra Nakhon Si Ayutthaya	non-BMR	2022	22	2.09677419354839
+Phra Nakhon Si Ayutthaya	non-BMR	2022	23	1
+Phra Nakhon Si Ayutthaya	non-BMR	2022	24	1
+Phra Nakhon Si Ayutthaya	non-BMR	2022	25	4
+Phra Nakhon Si Ayutthaya	non-BMR	2022	26	1
+Phra Nakhon Si Ayutthaya	non-BMR	2022	27	1
+Phra Nakhon Si Ayutthaya	non-BMR	2022	28	1
+Phra Nakhon Si Ayutthaya	non-BMR	2022	29	4
+Phra Nakhon Si Ayutthaya	non-BMR	2022	32	2
+Phra Nakhon Si Ayutthaya	non-BMR	2022	33	1
+Phra Nakhon Si Ayutthaya	non-BMR	2022	34	2
+Phra Nakhon Si Ayutthaya	non-BMR	2022	35	1
+Phra Nakhon Si Ayutthaya	non-BMR	2022	36	1
+Phrae	non-BMR	2021	16	1
+Phrae	non-BMR	2021	31	2
+Phrae	non-BMR	2021	33	1
+Phrae	non-BMR	2021	39	4
+Phrae	non-BMR	2021	40	5
+Phrae	non-BMR	2021	41	1
+Phrae	non-BMR	2021	42	1
+Phrae	non-BMR	2021	43	1
+Phrae	non-BMR	2021	44	0.4
+Phrae	non-BMR	2021	45	0.466666666666667
+Phrae	non-BMR	2021	46	0.466666666666667
+Phrae	non-BMR	2021	47	0.466666666666667
+Phrae	non-BMR	2021	48	15.2
+Phrae	non-BMR	2021	49	3
+Phrae	non-BMR	2021	52	0.032258064516129
+Phrae	non-BMR	2022	1	1.2258064516129
+Phrae	non-BMR	2022	2	0.225806451612903
+Phrae	non-BMR	2022	3	0.225806451612903
+Phrae	non-BMR	2022	4	9.2258064516129
+Phrae	non-BMR	2022	5	85.0645161290323
+Phrae	non-BMR	2022	7	5
+Phrae	non-BMR	2022	9	0.161290322580645
+Phrae	non-BMR	2022	10	16.2258064516129
+Phrae	non-BMR	2022	11	1.2258064516129
+Phrae	non-BMR	2022	12	12.2258064516129
+Phrae	non-BMR	2022	13	8.16129032258065
+Phrae	non-BMR	2022	14	8
+Phrae	non-BMR	2022	15	6
+Phrae	non-BMR	2022	16	5
+Phrae	non-BMR	2022	17	47
+Phrae	non-BMR	2022	18	7
+Phrae	non-BMR	2022	24	1
+Phrae	non-BMR	2022	25	2
+Phrae	non-BMR	2022	27	5
+Phrae	non-BMR	2022	28	3
+Phrae	non-BMR	2022	29	6
+Phrae	non-BMR	2022	30	6
+Phrae	non-BMR	2022	31	6
+Phrae	non-BMR	2022	33	7
+Phrae	non-BMR	2022	34	1
+Phuket	non-BMR	2021	20	2
+Phuket	non-BMR	2021	24	2
+Phuket	non-BMR	2021	25	1
+Phuket	non-BMR	2021	26	0.0967741935483871
+Phuket	non-BMR	2021	27	1.2258064516129
+Phuket	non-BMR	2021	28	0.225806451612903
+Phuket	non-BMR	2021	29	5.2258064516129
+Phuket	non-BMR	2021	30	1.2258064516129
+Phuket	non-BMR	2021	33	4
+Phuket	non-BMR	2021	34	4
+Phuket	non-BMR	2021	35	1
+Phuket	non-BMR	2021	44	3.8
+Phuket	non-BMR	2021	45	9.43333333333333
+Phuket	non-BMR	2021	46	4.43333333333333
+Phuket	non-BMR	2021	47	4.43333333333333
+Phuket	non-BMR	2021	48	1.9
+Phuket	non-BMR	2021	50	13
+Phuket	non-BMR	2021	51	92
+Phuket	non-BMR	2021	52	6
+Phuket	non-BMR	2022	1	9
+Phuket	non-BMR	2022	2	24
+Phuket	non-BMR	2022	3	57
+Phuket	non-BMR	2022	9	4
+Phuket	non-BMR	2022	10	6
+Phuket	non-BMR	2022	16	1
+Phuket	non-BMR	2022	26	7
+Phuket	non-BMR	2022	27	4
+Phuket	non-BMR	2022	28	3
+Phuket	non-BMR	2022	29	7
+Phuket	non-BMR	2022	30	3
+Phuket	non-BMR	2022	31	1.16129032258065
+Phuket	non-BMR	2022	32	1.35483870967742
+Phuket	non-BMR	2022	33	1.35483870967742
+Phuket	non-BMR	2022	34	2.35483870967742
+Phuket	non-BMR	2022	35	2.7741935483871
+Prachin Buri	non-BMR	2021	26	0.0967741935483871
+Prachin Buri	non-BMR	2021	27	0.225806451612903
+Prachin Buri	non-BMR	2021	28	0.225806451612903
+Prachin Buri	non-BMR	2021	29	0.225806451612903
+Prachin Buri	non-BMR	2021	30	0.225806451612903
+Prachin Buri	non-BMR	2021	33	1
+Prachin Buri	non-BMR	2021	35	1.13333333333333
+Prachin Buri	non-BMR	2021	36	1.23333333333333
+Prachin Buri	non-BMR	2021	37	0.233333333333333
+Prachin Buri	non-BMR	2021	38	0.233333333333333
+Prachin Buri	non-BMR	2021	39	8.23118279569892
+Prachin Buri	non-BMR	2021	40	1.2258064516129
+Prachin Buri	non-BMR	2021	41	44.2258064516129
+Prachin Buri	non-BMR	2021	42	0.225806451612903
+Prachin Buri	non-BMR	2021	43	6.2258064516129
+Prachin Buri	non-BMR	2021	44	3.03225806451613
+Prachin Buri	non-BMR	2022	6	2
+Prachin Buri	non-BMR	2022	7	2
+Prachin Buri	non-BMR	2022	8	7
+Prachin Buri	non-BMR	2022	9	3
+Prachin Buri	non-BMR	2022	10	4
+Prachin Buri	non-BMR	2022	11	5
+Prachin Buri	non-BMR	2022	12	1
+Prachin Buri	non-BMR	2022	13	0.0666666666666667
+Prachin Buri	non-BMR	2022	14	0.233333333333333
+Prachin Buri	non-BMR	2022	15	0.233333333333333
+Prachin Buri	non-BMR	2022	16	1.23333333333333
+Prachin Buri	non-BMR	2022	17	0.233333333333333
+Prachin Buri	non-BMR	2022	19	1
+Prachin Buri	non-BMR	2022	21	1
+Prachin Buri	non-BMR	2022	22	0.133333333333333
+Prachin Buri	non-BMR	2022	23	0.233333333333333
+Prachin Buri	non-BMR	2022	24	0.233333333333333
+Prachin Buri	non-BMR	2022	25	0.233333333333333
+Prachin Buri	non-BMR	2022	26	1.16666666666667
+Prachin Buri	non-BMR	2022	27	1
+Prachin Buri	non-BMR	2022	28	3
+Prachin Buri	non-BMR	2022	29	2
+Prachin Buri	non-BMR	2022	30	1
+Prachin Buri	non-BMR	2022	34	1
+Prachuap Khiri Khan	non-BMR	2021	26	0.0967741935483871
+Prachuap Khiri Khan	non-BMR	2021	27	0.225806451612903
+Prachuap Khiri Khan	non-BMR	2021	28	0.225806451612903
+Prachuap Khiri Khan	non-BMR	2021	29	0.225806451612903
+Prachuap Khiri Khan	non-BMR	2021	30	0.225806451612903
+Prachuap Khiri Khan	non-BMR	2021	39	0.387096774193548
+Prachuap Khiri Khan	non-BMR	2021	40	1.35483870967742
+Prachuap Khiri Khan	non-BMR	2021	41	1.35483870967742
+Prachuap Khiri Khan	non-BMR	2021	42	1.35483870967742
+Prachuap Khiri Khan	non-BMR	2021	43	1.35483870967742
+Prachuap Khiri Khan	non-BMR	2021	44	0.193548387096774
+Prachuap Khiri Khan	non-BMR	2021	47	2
+Prachuap Khiri Khan	non-BMR	2021	49	1
+Prachuap Khiri Khan	non-BMR	2021	50	2
+Prachuap Khiri Khan	non-BMR	2021	51	5
+Prachuap Khiri Khan	non-BMR	2022	1	6
+Prachuap Khiri Khan	non-BMR	2022	3	1
+Prachuap Khiri Khan	non-BMR	2022	5	0.178571428571429
+Prachuap Khiri Khan	non-BMR	2022	6	0.25
+Prachuap Khiri Khan	non-BMR	2022	7	1.25
+Prachuap Khiri Khan	non-BMR	2022	8	0.25
+Prachuap Khiri Khan	non-BMR	2022	9	0.555299539170507
+Prachuap Khiri Khan	non-BMR	2022	10	0.677419354838709
+Prachuap Khiri Khan	non-BMR	2022	11	0.677419354838709
+Prachuap Khiri Khan	non-BMR	2022	12	0.677419354838709
+Prachuap Khiri Khan	non-BMR	2022	13	0.483870967741935
+Prachuap Khiri Khan	non-BMR	2022	17	2
+Prachuap Khiri Khan	non-BMR	2022	18	0.677419354838709
+Prachuap Khiri Khan	non-BMR	2022	19	0.677419354838709
+Prachuap Khiri Khan	non-BMR	2022	20	0.677419354838709
+Prachuap Khiri Khan	non-BMR	2022	21	0.677419354838709
+Prachuap Khiri Khan	non-BMR	2022	22	0.690322580645161
+Prachuap Khiri Khan	non-BMR	2022	23	0.699999999999999
+Prachuap Khiri Khan	non-BMR	2022	24	0.699999999999999
+Prachuap Khiri Khan	non-BMR	2022	25	0.699999999999999
+Prachuap Khiri Khan	non-BMR	2022	26	0.500000000000001
+Prachuap Khiri Khan	non-BMR	2022	29	2
+Prachuap Khiri Khan	non-BMR	2022	30	2
+Prachuap Khiri Khan	non-BMR	2022	31	5
+Prachuap Khiri Khan	non-BMR	2022	32	6
+Prachuap Khiri Khan	non-BMR	2022	33	2
+Prachuap Khiri Khan	non-BMR	2022	34	3
+Ranong	non-BMR	2022	19	1
+Ratchaburi	non-BMR	2021	18	10
+Ratchaburi	non-BMR	2021	20	1
+Ratchaburi	non-BMR	2021	21	6
+Ratchaburi	non-BMR	2021	22	0.333333333333333
+Ratchaburi	non-BMR	2021	23	0.466666666666667
+Ratchaburi	non-BMR	2021	24	0.466666666666667
+Ratchaburi	non-BMR	2021	25	0.466666666666667
+Ratchaburi	non-BMR	2021	26	0.266666666666667
+Ratchaburi	non-BMR	2021	38	1
+Ratchaburi	non-BMR	2021	44	14
+Ratchaburi	non-BMR	2021	45	13
+Ratchaburi	non-BMR	2021	48	1
+Ratchaburi	non-BMR	2021	49	2
+Ratchaburi	non-BMR	2021	50	4
+Ratchaburi	non-BMR	2021	51	4
+Ratchaburi	non-BMR	2022	1	2
+Ratchaburi	non-BMR	2022	18	1
+Ratchaburi	non-BMR	2022	29	1
+Rayong	non-BMR	2020	52	1
+Rayong	non-BMR	2021	1	5
+Rayong	non-BMR	2021	35	0.133333333333333
+Rayong	non-BMR	2021	36	0.233333333333333
+Rayong	non-BMR	2021	37	0.233333333333333
+Rayong	non-BMR	2021	38	0.233333333333333
+Rayong	non-BMR	2021	39	5.16666666666667
+Rayong	non-BMR	2021	40	1
+Rayong	non-BMR	2021	52	2
+Rayong	non-BMR	2022	5	3
+Rayong	non-BMR	2022	8	5
+Rayong	non-BMR	2022	9	1
+Rayong	non-BMR	2022	10	1
+Rayong	non-BMR	2022	12	4
+Rayong	non-BMR	2022	19	2
+Rayong	non-BMR	2022	20	1
+Rayong	non-BMR	2022	26	0.129032258064516
+Rayong	non-BMR	2022	27	0.451612903225806
+Rayong	non-BMR	2022	28	1.45161290322581
+Rayong	non-BMR	2022	29	0.451612903225806
+Rayong	non-BMR	2022	30	0.451612903225806
+Rayong	non-BMR	2022	31	0.0645161290322581
+Rayong	non-BMR	2022	32	1
+Rayong	non-BMR	2022	33	1
+Roi Et	non-BMR	2021	19	1
+Roi Et	non-BMR	2021	20	9
+Roi Et	non-BMR	2021	24	1
+Roi Et	non-BMR	2021	25	2
+Roi Et	non-BMR	2021	51	36
+Roi Et	non-BMR	2021	52	19.0322580645161
+Roi Et	non-BMR	2022	1	26.2258064516129
+Roi Et	non-BMR	2022	2	53.2258064516129
+Roi Et	non-BMR	2022	3	33.2258064516129
+Roi Et	non-BMR	2022	4	41.2258064516129
+Roi Et	non-BMR	2022	5	110.457373271889
+Roi Et	non-BMR	2022	6	31.75
+Roi Et	non-BMR	2022	7	30.75
+Roi Et	non-BMR	2022	8	38.75
+Roi Et	non-BMR	2022	9	26.8087557603686
+Roi Et	non-BMR	2022	10	13.0322580645161
+Roi Et	non-BMR	2022	11	25.0322580645161
+Roi Et	non-BMR	2022	12	7.03225806451614
+Roi Et	non-BMR	2022	13	1.85161290322581
+Roi Et	non-BMR	2022	14	1.4
+Roi Et	non-BMR	2022	15	1.4
+Roi Et	non-BMR	2022	16	1.4
+Roi Et	non-BMR	2022	17	9.4
+Roi Et	non-BMR	2022	18	62.6774193548387
+Roi Et	non-BMR	2022	19	44.6774193548387
+Roi Et	non-BMR	2022	20	34.6774193548387
+Roi Et	non-BMR	2022	21	13.6774193548387
+Roi Et	non-BMR	2022	22	18.2903225806452
+Roi Et	non-BMR	2022	23	12
+Roi Et	non-BMR	2022	24	10
+Roi Et	non-BMR	2022	25	10
+Roi Et	non-BMR	2022	26	11
+Roi Et	non-BMR	2022	27	2
+Roi Et	non-BMR	2022	28	5
+Roi Et	non-BMR	2022	29	1
+Roi Et	non-BMR	2022	30	3
+Roi Et	non-BMR	2022	32	1
+Roi Et	non-BMR	2022	35	1
+Sa Kaeo	non-BMR	2021	44	1
+Sa Kaeo	non-BMR	2021	52	4
+Sa Kaeo	non-BMR	2022	6	31
+Sa Kaeo	non-BMR	2022	8	2
+Sa Kaeo	non-BMR	2022	9	9
+Sa Kaeo	non-BMR	2022	10	2
+Sa Kaeo	non-BMR	2022	11	5
+Sa Kaeo	non-BMR	2022	12	5
+Sa Kaeo	non-BMR	2022	14	1
+Sa Kaeo	non-BMR	2022	18	5.4516129032258
+Sa Kaeo	non-BMR	2022	19	7.4516129032258
+Sa Kaeo	non-BMR	2022	20	2.4516129032258
+Sa Kaeo	non-BMR	2022	21	5.4516129032258
+Sa Kaeo	non-BMR	2022	22	0.326881720430107
+Sa Kaeo	non-BMR	2022	23	0.233333333333333
+Sa Kaeo	non-BMR	2022	24	2.23333333333333
+Sa Kaeo	non-BMR	2022	25	0.233333333333333
+Sa Kaeo	non-BMR	2022	26	0.166666666666667
+Sa Kaeo	non-BMR	2022	28	2
+Sa Kaeo	non-BMR	2022	29	6
+Sa Kaeo	non-BMR	2022	30	2
+Sa Kaeo	non-BMR	2022	35	1
+Sakon Nakhon	non-BMR	2021	17	3
+Sakon Nakhon	non-BMR	2021	20	1
+Sakon Nakhon	non-BMR	2021	31	0.225806451612903
+Sakon Nakhon	non-BMR	2021	32	0.225806451612903
+Sakon Nakhon	non-BMR	2021	33	0.225806451612903
+Sakon Nakhon	non-BMR	2021	34	0.225806451612903
+Sakon Nakhon	non-BMR	2021	35	0.0967741935483871
+Sakon Nakhon	non-BMR	2021	37	1
+Sakon Nakhon	non-BMR	2021	38	26
+Sakon Nakhon	non-BMR	2021	39	25
+Sakon Nakhon	non-BMR	2021	40	22
+Sakon Nakhon	non-BMR	2021	42	2
+Sakon Nakhon	non-BMR	2021	44	8
+Sakon Nakhon	non-BMR	2021	45	6
+Sakon Nakhon	non-BMR	2021	47	2
+Sakon Nakhon	non-BMR	2021	48	8
+Sakon Nakhon	non-BMR	2021	49	8
+Sakon Nakhon	non-BMR	2021	50	7
+Sakon Nakhon	non-BMR	2022	1	16
+Sakon Nakhon	non-BMR	2022	9	0.32258064516129
+Sakon Nakhon	non-BMR	2022	10	0.451612903225806
+Sakon Nakhon	non-BMR	2022	11	0.451612903225806
+Sakon Nakhon	non-BMR	2022	12	0.451612903225806
+Sakon Nakhon	non-BMR	2022	13	0.52258064516129
+Sakon Nakhon	non-BMR	2022	14	0.7
+Sakon Nakhon	non-BMR	2022	15	0.7
+Sakon Nakhon	non-BMR	2022	16	0.7
+Sakon Nakhon	non-BMR	2022	17	0.7
+Sakon Nakhon	non-BMR	2022	18	1.2258064516129
+Sakon Nakhon	non-BMR	2022	19	1.2258064516129
+Sakon Nakhon	non-BMR	2022	20	1.2258064516129
+Sakon Nakhon	non-BMR	2022	21	1.2258064516129
+Sakon Nakhon	non-BMR	2022	22	0.0967741935483871
+Sakon Nakhon	non-BMR	2022	26	0.0645161290322581
+Sakon Nakhon	non-BMR	2022	27	1.2258064516129
+Sakon Nakhon	non-BMR	2022	28	0.225806451612903
+Sakon Nakhon	non-BMR	2022	29	0.225806451612903
+Sakon Nakhon	non-BMR	2022	30	0.225806451612903
+Sakon Nakhon	non-BMR	2022	31	1
+Sakon Nakhon	non-BMR	2022	32	1.12903225806452
+Sakon Nakhon	non-BMR	2022	33	1.12903225806452
+Sakon Nakhon	non-BMR	2022	34	1.12903225806452
+Sakon Nakhon	non-BMR	2022	35	0.645161290322581
+Samut Prakan	Samut Prakan	2020	4	1
+Samut Prakan	Samut Prakan	2021	1	1
+Samut Prakan	Samut Prakan	2021	5	2
+Samut Prakan	Samut Prakan	2021	7	1
+Samut Prakan	Samut Prakan	2021	12	1
+Samut Prakan	Samut Prakan	2021	17	9
+Samut Prakan	Samut Prakan	2021	18	1
+Samut Prakan	Samut Prakan	2021	20	5
+Samut Prakan	Samut Prakan	2021	22	2
+Samut Prakan	Samut Prakan	2021	23	1
+Samut Prakan	Samut Prakan	2021	24	1
+Samut Prakan	Samut Prakan	2021	25	1
+Samut Prakan	Samut Prakan	2021	26	1
+Samut Prakan	Samut Prakan	2021	34	1
+Samut Prakan	Samut Prakan	2021	35	1.13333333333333
+Samut Prakan	Samut Prakan	2021	36	0.233333333333333
+Samut Prakan	Samut Prakan	2021	37	0.233333333333333
+Samut Prakan	Samut Prakan	2021	38	0.233333333333333
+Samut Prakan	Samut Prakan	2021	39	1.23118279569893
+Samut Prakan	Samut Prakan	2021	40	3.2258064516129
+Samut Prakan	Samut Prakan	2021	41	0.225806451612903
+Samut Prakan	Samut Prakan	2021	42	0.225806451612903
+Samut Prakan	Samut Prakan	2021	43	0.225806451612903
+Samut Prakan	Samut Prakan	2021	44	0.032258064516129
+Samut Prakan	Samut Prakan	2021	47	1
+Samut Prakan	Samut Prakan	2021	48	1
+Samut Prakan	Samut Prakan	2021	49	10
+Samut Prakan	Samut Prakan	2021	51	1
+Samut Prakan	Samut Prakan	2021	52	12.0645161290323
+Samut Prakan	Samut Prakan	2022	1	7.4516129032258
+Samut Prakan	Samut Prakan	2022	2	1.45161290322581
+Samut Prakan	Samut Prakan	2022	3	2.45161290322581
+Samut Prakan	Samut Prakan	2022	4	1.4516129032258
+Samut Prakan	Samut Prakan	2022	5	12.8433179723502
+Samut Prakan	Samut Prakan	2022	6	10
+Samut Prakan	Samut Prakan	2022	7	9
+Samut Prakan	Samut Prakan	2022	8	24
+Samut Prakan	Samut Prakan	2022	9	21.2534562211982
+Samut Prakan	Samut Prakan	2022	10	30.3548387096774
+Samut Prakan	Samut Prakan	2022	11	23.3548387096774
+Samut Prakan	Samut Prakan	2022	12	14.3548387096774
+Samut Prakan	Samut Prakan	2022	13	2.1010752688172
+Samut Prakan	Samut Prakan	2022	14	1.46666666666667
+Samut Prakan	Samut Prakan	2022	15	6.46666666666667
+Samut Prakan	Samut Prakan	2022	16	8.46666666666666
+Samut Prakan	Samut Prakan	2022	17	10.4666666666667
+Samut Prakan	Samut Prakan	2022	18	14.4516129032258
+Samut Prakan	Samut Prakan	2022	19	1.45161290322581
+Samut Prakan	Samut Prakan	2022	20	7.4516129032258
+Samut Prakan	Samut Prakan	2022	21	5.4516129032258
+Samut Prakan	Samut Prakan	2022	22	0.326881720430107
+Samut Prakan	Samut Prakan	2022	23	0.233333333333333
+Samut Prakan	Samut Prakan	2022	24	0.233333333333333
+Samut Prakan	Samut Prakan	2022	25	1.23333333333333
+Samut Prakan	Samut Prakan	2022	26	1.23118279569893
+Samut Prakan	Samut Prakan	2022	27	4.2258064516129
+Samut Prakan	Samut Prakan	2022	28	16.2258064516129
+Samut Prakan	Samut Prakan	2022	29	1.2258064516129
+Samut Prakan	Samut Prakan	2022	30	5.2258064516129
+Samut Prakan	Samut Prakan	2022	31	5.03225806451613
+Samut Prakan	Samut Prakan	2022	32	1
+Samut Prakan	Samut Prakan	2022	33	4
+Samut Prakan	Samut Prakan	2022	34	2
+Samut Prakan	Samut Prakan	2022	35	4
+Samut Prakan	Samut Prakan	2022	37	4
+Samut Sakhon	Samut Sakhon	2020	51	60
+Samut Sakhon	Samut Sakhon	2020	52	22
+Samut Sakhon	Samut Sakhon	2020	53	0.516129032258064
+Samut Sakhon	Samut Sakhon	2021	1	3.80645161290323
+Samut Sakhon	Samut Sakhon	2021	2	6.80645161290323
+Samut Sakhon	Samut Sakhon	2021	3	1.80645161290323
+Samut Sakhon	Samut Sakhon	2021	4	1.80645161290323
+Samut Sakhon	Samut Sakhon	2021	5	14.2580645161291
+Samut Sakhon	Samut Sakhon	2021	7	2
+Samut Sakhon	Samut Sakhon	2021	8	2
+Samut Sakhon	Samut Sakhon	2021	9	3
+Samut Sakhon	Samut Sakhon	2021	10	1
+Samut Sakhon	Samut Sakhon	2021	13	2
+Samut Sakhon	Samut Sakhon	2021	18	19
+Samut Sakhon	Samut Sakhon	2021	19	4
+Samut Sakhon	Samut Sakhon	2021	22	0.333333333333333
+Samut Sakhon	Samut Sakhon	2021	23	0.466666666666667
+Samut Sakhon	Samut Sakhon	2021	24	0.466666666666667
+Samut Sakhon	Samut Sakhon	2021	25	0.466666666666667
+Samut Sakhon	Samut Sakhon	2021	26	0.266666666666667
+Samut Sakhon	Samut Sakhon	2021	48	0.645161290322581
+Samut Sakhon	Samut Sakhon	2021	49	1.12903225806452
+Samut Sakhon	Samut Sakhon	2021	50	1.12903225806452
+Samut Sakhon	Samut Sakhon	2021	51	1.12903225806452
+Samut Sakhon	Samut Sakhon	2021	52	0.967741935483871
+Samut Sakhon	Samut Sakhon	2022	1	2
+Samut Sakhon	Samut Sakhon	2022	5	0.178571428571429
+Samut Sakhon	Samut Sakhon	2022	6	0.25
+Samut Sakhon	Samut Sakhon	2022	7	0.25
+Samut Sakhon	Samut Sakhon	2022	8	0.25
+Samut Sakhon	Samut Sakhon	2022	9	2.84562211981567
+Samut Sakhon	Samut Sakhon	2022	10	6.48387096774194
+Samut Sakhon	Samut Sakhon	2022	11	4.48387096774194
+Samut Sakhon	Samut Sakhon	2022	12	2.48387096774194
+Samut Sakhon	Samut Sakhon	2022	13	1.7741935483871
+Samut Sakhon	Samut Sakhon	2022	15	1
+Samut Sakhon	Samut Sakhon	2022	16	1
+Samut Sakhon	Samut Sakhon	2022	17	1
+Samut Sakhon	Samut Sakhon	2022	18	0.225806451612903
+Samut Sakhon	Samut Sakhon	2022	19	0.225806451612903
+Samut Sakhon	Samut Sakhon	2022	20	0.225806451612903
+Samut Sakhon	Samut Sakhon	2022	21	0.225806451612903
+Samut Sakhon	Samut Sakhon	2022	22	0.363440860215054
+Samut Sakhon	Samut Sakhon	2022	23	0.466666666666667
+Samut Sakhon	Samut Sakhon	2022	24	0.466666666666667
+Samut Sakhon	Samut Sakhon	2022	25	0.466666666666667
+Samut Sakhon	Samut Sakhon	2022	26	0.333333333333333
+Samut Sakhon	Samut Sakhon	2022	29	4
+Samut Sakhon	Samut Sakhon	2022	30	4
+Samut Sakhon	Samut Sakhon	2022	31	3
+Samut Sakhon	Samut Sakhon	2022	32	4
+Samut Sakhon	Samut Sakhon	2022	33	11
+Samut Sakhon	Samut Sakhon	2022	34	2
+Samut Songkhram	non-BMR	2021	14	2
+Samut Songkhram	non-BMR	2021	37	1
+Samut Songkhram	non-BMR	2021	39	0.0645161290322581
+Samut Songkhram	non-BMR	2021	40	0.225806451612903
+Samut Songkhram	non-BMR	2021	41	3.2258064516129
+Samut Songkhram	non-BMR	2021	42	2.2258064516129
+Samut Songkhram	non-BMR	2021	43	9.2258064516129
+Samut Songkhram	non-BMR	2021	44	10.4322580645161
+Samut Songkhram	non-BMR	2021	45	7.46666666666666
+Samut Songkhram	non-BMR	2021	46	23.4666666666667
+Samut Songkhram	non-BMR	2021	47	7.46666666666666
+Samut Songkhram	non-BMR	2021	48	7.61935483870968
+Samut Songkhram	non-BMR	2021	49	2.48387096774194
+Samut Songkhram	non-BMR	2021	50	6.48387096774194
+Samut Songkhram	non-BMR	2021	51	5.48387096774194
+Samut Songkhram	non-BMR	2021	52	9.51612903225807
+Samut Songkhram	non-BMR	2022	1	12.7096774193548
+Samut Songkhram	non-BMR	2022	2	18.7096774193548
+Samut Songkhram	non-BMR	2022	3	7.70967741935484
+Samut Songkhram	non-BMR	2022	4	4.70967741935484
+Samut Songkhram	non-BMR	2022	5	2.0241935483871
+Samut Songkhram	non-BMR	2022	6	5.75
+Samut Songkhram	non-BMR	2022	7	1.75
+Samut Songkhram	non-BMR	2022	8	1.75
+Samut Songkhram	non-BMR	2022	9	3.95161290322581
+Samut Songkhram	non-BMR	2022	10	10.0322580645161
+Samut Songkhram	non-BMR	2022	11	2.03225806451613
+Samut Songkhram	non-BMR	2022	12	2.03225806451613
+Samut Songkhram	non-BMR	2022	13	1.78494623655914
+Samut Songkhram	non-BMR	2022	14	1.16666666666667
+Samut Songkhram	non-BMR	2022	15	1.16666666666667
+Samut Songkhram	non-BMR	2022	16	1.16666666666667
+Samut Songkhram	non-BMR	2022	17	2.16666666666666
+Samut Songkhram	non-BMR	2022	18	1.2258064516129
+Samut Songkhram	non-BMR	2022	19	0.225806451612903
+Samut Songkhram	non-BMR	2022	20	0.225806451612903
+Samut Songkhram	non-BMR	2022	21	1.2258064516129
+Samut Songkhram	non-BMR	2022	22	0.363440860215054
+Samut Songkhram	non-BMR	2022	23	0.466666666666667
+Samut Songkhram	non-BMR	2022	24	0.466666666666667
+Samut Songkhram	non-BMR	2022	25	0.466666666666667
+Samut Songkhram	non-BMR	2022	26	0.333333333333333
+Samut Songkhram	non-BMR	2022	29	1
+Samut Songkhram	non-BMR	2022	30	2
+Saraburi	non-BMR	2021	14	1
+Saraburi	non-BMR	2021	35	1.13333333333333
+Saraburi	non-BMR	2021	36	0.233333333333333
+Saraburi	non-BMR	2021	37	2.23333333333333
+Saraburi	non-BMR	2021	38	0.233333333333333
+Saraburi	non-BMR	2021	39	0.166666666666667
+Saraburi	non-BMR	2021	44	1
+Saraburi	non-BMR	2021	45	14.1666666666667
+Saraburi	non-BMR	2021	46	20.1666666666667
+Saraburi	non-BMR	2021	47	15.1666666666667
+Saraburi	non-BMR	2021	48	13.016129032258
+Saraburi	non-BMR	2021	49	13.9032258064516
+Saraburi	non-BMR	2021	50	17.9032258064516
+Saraburi	non-BMR	2021	51	9.90322580645161
+Saraburi	non-BMR	2021	52	1.7741935483871
+Saraburi	non-BMR	2022	2	4
+Saraburi	non-BMR	2022	3	1
+Saraburi	non-BMR	2022	5	0.178571428571429
+Saraburi	non-BMR	2022	6	0.25
+Saraburi	non-BMR	2022	7	1.25
+Saraburi	non-BMR	2022	8	0.25
+Saraburi	non-BMR	2022	9	1.36175115207373
+Saraburi	non-BMR	2022	10	1.80645161290323
+Saraburi	non-BMR	2022	11	9.80645161290322
+Saraburi	non-BMR	2022	12	1.80645161290323
+Saraburi	non-BMR	2022	13	1.29032258064516
+Saraburi	non-BMR	2022	18	0.225806451612903
+Saraburi	non-BMR	2022	19	1.2258064516129
+Saraburi	non-BMR	2022	20	0.225806451612903
+Saraburi	non-BMR	2022	21	1.2258064516129
+Saraburi	non-BMR	2022	22	0.0967741935483871
+Saraburi	non-BMR	2022	30	1
+Saraburi	non-BMR	2022	31	0.193548387096774
+Saraburi	non-BMR	2022	32	0.225806451612903
+Saraburi	non-BMR	2022	33	0.225806451612903
+Saraburi	non-BMR	2022	34	0.225806451612903
+Saraburi	non-BMR	2022	35	0.629032258064516
+Saraburi	non-BMR	2022	36	1.16666666666667
+Saraburi	non-BMR	2022	37	1.16666666666667
+Saraburi	non-BMR	2022	38	1.16666666666667
+Saraburi	non-BMR	2022	39	1
+Satun	non-BMR	2021	29	3
+Satun	non-BMR	2021	30	1
+Satun	non-BMR	2021	35	0.133333333333333
+Satun	non-BMR	2021	36	0.233333333333333
+Satun	non-BMR	2021	37	0.233333333333333
+Satun	non-BMR	2021	38	0.233333333333333
+Satun	non-BMR	2021	39	0.166666666666667
+Satun	non-BMR	2021	51	1
+Satun	non-BMR	2021	52	8
+Satun	non-BMR	2022	1	6
+Satun	non-BMR	2022	2	7
+Satun	non-BMR	2022	3	11
+Satun	non-BMR	2022	17	1
+Satun	non-BMR	2022	26	1
+Satun	non-BMR	2022	27	1
+Satun	non-BMR	2022	28	1
+Satun	non-BMR	2022	29	1
+Si Sa Ket	non-BMR	2021	14	1
+Si Sa Ket	non-BMR	2021	44	2
+Si Sa Ket	non-BMR	2021	45	13.3333333333333
+Si Sa Ket	non-BMR	2021	46	2.33333333333333
+Si Sa Ket	non-BMR	2021	47	2.33333333333333
+Si Sa Ket	non-BMR	2021	48	1.64516129032258
+Si Sa Ket	non-BMR	2021	49	1.12903225806452
+Si Sa Ket	non-BMR	2021	50	1.12903225806452
+Si Sa Ket	non-BMR	2021	51	1.12903225806452
+Si Sa Ket	non-BMR	2021	52	0.967741935483871
+Si Sa Ket	non-BMR	2022	3	1
+Si Sa Ket	non-BMR	2022	4	2
+Si Sa Ket	non-BMR	2022	5	2
+Si Sa Ket	non-BMR	2022	6	3
+Si Sa Ket	non-BMR	2022	7	5
+Si Sa Ket	non-BMR	2022	8	4
+Si Sa Ket	non-BMR	2022	9	7
+Si Sa Ket	non-BMR	2022	10	3
+Si Sa Ket	non-BMR	2022	12	1
+Si Sa Ket	non-BMR	2022	16	1
+Si Sa Ket	non-BMR	2022	17	1
+Si Sa Ket	non-BMR	2022	18	3
+Si Sa Ket	non-BMR	2022	19	1
+Sing Buri	non-BMR	2020	49	1
+Sing Buri	non-BMR	2022	5	0.178571428571429
+Sing Buri	non-BMR	2022	6	0.25
+Sing Buri	non-BMR	2022	7	1.25
+Sing Buri	non-BMR	2022	8	0.25
+Sing Buri	non-BMR	2022	9	0.0714285714285714
+Sing Buri	non-BMR	2022	31	0.193548387096774
+Sing Buri	non-BMR	2022	32	0.225806451612903
+Sing Buri	non-BMR	2022	33	0.225806451612903
+Sing Buri	non-BMR	2022	34	0.225806451612903
+Sing Buri	non-BMR	2022	35	0.129032258064516
+Songkhla	non-BMR	2021	16	7
+Songkhla	non-BMR	2021	18	5
+Songkhla	non-BMR	2021	19	55
+Songkhla	non-BMR	2021	20	4
+Songkhla	non-BMR	2021	23	4
+Songkhla	non-BMR	2021	24	3
+Songkhla	non-BMR	2021	25	1
+Songkhla	non-BMR	2021	26	5
+Songkhla	non-BMR	2021	32	2
+Songkhla	non-BMR	2021	33	3
+Songkhla	non-BMR	2021	34	1
+Songkhla	non-BMR	2021	35	1.26666666666667
+Songkhla	non-BMR	2021	36	2.46666666666667
+Songkhla	non-BMR	2021	37	3.46666666666667
+Songkhla	non-BMR	2021	38	0.466666666666667
+Songkhla	non-BMR	2021	39	11.3333333333333
+Songkhla	non-BMR	2021	40	31
+Songkhla	non-BMR	2021	41	94
+Songkhla	non-BMR	2021	42	31
+Songkhla	non-BMR	2021	43	3
+Songkhla	non-BMR	2021	44	26
+Songkhla	non-BMR	2021	45	12
+Songkhla	non-BMR	2021	47	23
+Songkhla	non-BMR	2021	48	16.1612903225806
+Songkhla	non-BMR	2021	49	39.0322580645161
+Songkhla	non-BMR	2021	50	54.0322580645161
+Songkhla	non-BMR	2021	51	43.0322580645161
+Songkhla	non-BMR	2021	52	30.7419354838709
+Songkhla	non-BMR	2022	1	40
+Songkhla	non-BMR	2022	2	70
+Songkhla	non-BMR	2022	3	32
+Songkhla	non-BMR	2022	16	1
+Songkhla	non-BMR	2022	26	1
+Sukhothai	non-BMR	2021	22	0.166666666666667
+Sukhothai	non-BMR	2021	23	0.233333333333333
+Sukhothai	non-BMR	2021	24	0.233333333333333
+Sukhothai	non-BMR	2021	25	0.233333333333333
+Sukhothai	non-BMR	2021	26	0.133333333333333
+Sukhothai	non-BMR	2021	48	4
+Sukhothai	non-BMR	2021	49	2
+Sukhothai	non-BMR	2022	5	8.07142857142857
+Sukhothai	non-BMR	2022	6	1.5
+Sukhothai	non-BMR	2022	7	1.5
+Sukhothai	non-BMR	2022	8	1.5
+Sukhothai	non-BMR	2022	9	0.428571428571429
+Sukhothai	non-BMR	2022	12	1
+Suphan Buri	non-BMR	2021	39	0.258064516129032
+Suphan Buri	non-BMR	2021	40	0.903225806451613
+Suphan Buri	non-BMR	2021	41	0.903225806451613
+Suphan Buri	non-BMR	2021	42	0.903225806451613
+Suphan Buri	non-BMR	2021	43	0.903225806451613
+Suphan Buri	non-BMR	2021	44	0.129032258064516
+Suphan Buri	non-BMR	2021	51	3
+Suphan Buri	non-BMR	2021	52	0.161290322580645
+Suphan Buri	non-BMR	2022	1	3.12903225806452
+Suphan Buri	non-BMR	2022	2	1.12903225806452
+Suphan Buri	non-BMR	2022	3	1.12903225806452
+Suphan Buri	non-BMR	2022	4	1.12903225806452
+Suphan Buri	non-BMR	2022	5	0.679723502304148
+Suphan Buri	non-BMR	2022	6	3.5
+Suphan Buri	non-BMR	2022	7	0.5
+Suphan Buri	non-BMR	2022	8	0.5
+Suphan Buri	non-BMR	2022	9	0.142857142857143
+Suphan Buri	non-BMR	2022	13	0.0666666666666667
+Suphan Buri	non-BMR	2022	14	0.233333333333333
+Suphan Buri	non-BMR	2022	15	0.233333333333333
+Suphan Buri	non-BMR	2022	16	0.233333333333333
+Suphan Buri	non-BMR	2022	17	4.23333333333333
+Suphan Buri	non-BMR	2022	18	0.677419354838709
+Suphan Buri	non-BMR	2022	19	0.677419354838709
+Suphan Buri	non-BMR	2022	20	0.677419354838709
+Suphan Buri	non-BMR	2022	21	0.677419354838709
+Suphan Buri	non-BMR	2022	22	0.290322580645161
+Suphan Buri	non-BMR	2022	30	2
+Suphan Buri	non-BMR	2022	32	1
+Suphan Buri	non-BMR	2022	34	1
+Surat Thani	non-BMR	2021	13	0.1
+Surat Thani	non-BMR	2021	14	0.233333333333333
+Surat Thani	non-BMR	2021	15	0.233333333333333
+Surat Thani	non-BMR	2021	16	0.233333333333333
+Surat Thani	non-BMR	2021	17	0.2
+Surat Thani	non-BMR	2021	22	0.333333333333333
+Surat Thani	non-BMR	2021	23	0.466666666666667
+Surat Thani	non-BMR	2021	24	0.466666666666667
+Surat Thani	non-BMR	2021	25	1.46666666666667
+Surat Thani	non-BMR	2021	26	0.460215053763441
+Surat Thani	non-BMR	2021	27	3.45161290322581
+Surat Thani	non-BMR	2021	28	1.45161290322581
+Surat Thani	non-BMR	2021	29	0.451612903225806
+Surat Thani	non-BMR	2021	30	0.451612903225806
+Surat Thani	non-BMR	2021	31	0.225806451612903
+Surat Thani	non-BMR	2021	32	1.2258064516129
+Surat Thani	non-BMR	2021	33	0.225806451612903
+Surat Thani	non-BMR	2021	34	0.225806451612903
+Surat Thani	non-BMR	2021	35	0.0967741935483871
+Surat Thani	non-BMR	2021	36	1
+Surat Thani	non-BMR	2021	37	1
+Surat Thani	non-BMR	2021	38	2
+Surat Thani	non-BMR	2021	39	0.0645161290322581
+Surat Thani	non-BMR	2021	40	0.225806451612903
+Surat Thani	non-BMR	2021	41	0.225806451612903
+Surat Thani	non-BMR	2021	42	0.225806451612903
+Surat Thani	non-BMR	2021	43	2.2258064516129
+Surat Thani	non-BMR	2021	44	0.032258064516129
+Surat Thani	non-BMR	2021	45	1
+Surat Thani	non-BMR	2021	46	2
+Surat Thani	non-BMR	2021	48	5
+Surat Thani	non-BMR	2021	50	7
+Surat Thani	non-BMR	2021	51	10
+Surat Thani	non-BMR	2021	52	7.06451612903226
+Surat Thani	non-BMR	2022	1	43.4516129032258
+Surat Thani	non-BMR	2022	2	30.4516129032258
+Surat Thani	non-BMR	2022	3	16.4516129032258
+Surat Thani	non-BMR	2022	4	42.4516129032258
+Surat Thani	non-BMR	2022	5	28.7004608294931
+Surat Thani	non-BMR	2022	6	21
+Surat Thani	non-BMR	2022	7	5
+Surat Thani	non-BMR	2022	8	8
+Surat Thani	non-BMR	2022	9	8.23502304147466
+Surat Thani	non-BMR	2022	10	14.1290322580645
+Surat Thani	non-BMR	2022	11	8.12903225806452
+Surat Thani	non-BMR	2022	12	7.12903225806452
+Surat Thani	non-BMR	2022	13	9.07311827956989
+Surat Thani	non-BMR	2022	14	2.93333333333333
+Surat Thani	non-BMR	2022	15	4.93333333333333
+Surat Thani	non-BMR	2022	16	4.93333333333333
+Surat Thani	non-BMR	2022	17	5.93333333333333
+Surat Thani	non-BMR	2022	18	4
+Surat Thani	non-BMR	2022	19	1
+Surat Thani	non-BMR	2022	20	6
+Surat Thani	non-BMR	2022	21	3
+Surat Thani	non-BMR	2022	22	2
+Surat Thani	non-BMR	2022	23	1
+Surat Thani	non-BMR	2022	25	3
+Surat Thani	non-BMR	2022	26	6
+Surat Thani	non-BMR	2022	27	8
+Surat Thani	non-BMR	2022	28	4
+Surat Thani	non-BMR	2022	29	2
+Surin	non-BMR	2021	26	1
+Surin	non-BMR	2021	29	1
+Surin	non-BMR	2021	36	1
+Surin	non-BMR	2021	41	7
+Surin	non-BMR	2022	12	1
+Surin	non-BMR	2022	20	1
+Tak	non-BMR	2020	52	1
+Tak	non-BMR	2021	1	2
+Tak	non-BMR	2021	2	2
+Tak	non-BMR	2021	6	1
+Tak	non-BMR	2021	10	1
+Tak	non-BMR	2021	13	1
+Tak	non-BMR	2021	14	2
+Tak	non-BMR	2021	15	5
+Tak	non-BMR	2021	17	2
+Tak	non-BMR	2021	18	11
+Tak	non-BMR	2021	19	2
+Tak	non-BMR	2021	20	51
+Tak	non-BMR	2021	21	1
+Tak	non-BMR	2021	22	54.1666666666667
+Tak	non-BMR	2021	23	3.23333333333333
+Tak	non-BMR	2021	24	9.23333333333333
+Tak	non-BMR	2021	25	5.23333333333333
+Tak	non-BMR	2021	26	4.13333333333333
+Tak	non-BMR	2021	27	6
+Tak	non-BMR	2021	28	79
+Tak	non-BMR	2021	29	38
+Tak	non-BMR	2021	30	15
+Tak	non-BMR	2021	31	17
+Tak	non-BMR	2021	32	6
+Tak	non-BMR	2021	33	5
+Tak	non-BMR	2021	34	5
+Tak	non-BMR	2021	35	7
+Tak	non-BMR	2021	36	53
+Tak	non-BMR	2021	37	33
+Tak	non-BMR	2021	38	15
+Tak	non-BMR	2021	39	14
+Tak	non-BMR	2021	40	18
+Tak	non-BMR	2021	41	13
+Tak	non-BMR	2021	42	7
+Tak	non-BMR	2021	43	3
+Tak	non-BMR	2021	44	2
+Tak	non-BMR	2021	45	5
+Tak	non-BMR	2021	46	3
+Tak	non-BMR	2021	47	15
+Tak	non-BMR	2021	48	5
+Tak	non-BMR	2021	49	11
+Tak	non-BMR	2021	50	2
+Tak	non-BMR	2021	51	11
+Tak	non-BMR	2021	52	1
+Tak	non-BMR	2022	1	15
+Tak	non-BMR	2022	2	8
+Tak	non-BMR	2022	5	111.392857142857
+Tak	non-BMR	2022	6	8.75
+Tak	non-BMR	2022	7	8.75
+Tak	non-BMR	2022	8	36.75
+Tak	non-BMR	2022	9	5.61520737327189
+Tak	non-BMR	2022	10	22.1612903225806
+Tak	non-BMR	2022	11	12.1612903225806
+Tak	non-BMR	2022	12	30.1612903225806
+Tak	non-BMR	2022	13	38.258064516129
+Tak	non-BMR	2022	14	19
+Tak	non-BMR	2022	15	4
+Tak	non-BMR	2022	16	1
+Tak	non-BMR	2022	19	5
+Tak	non-BMR	2022	20	15
+Tak	non-BMR	2022	21	3
+Tak	non-BMR	2022	22	10.2666666666667
+Tak	non-BMR	2022	23	10.4666666666667
+Tak	non-BMR	2022	24	9.46666666666667
+Tak	non-BMR	2022	25	15.4666666666667
+Tak	non-BMR	2022	26	17.3333333333333
+Tak	non-BMR	2022	27	12
+Tak	non-BMR	2022	28	6
+Tak	non-BMR	2022	29	26
+Tak	non-BMR	2022	30	1
+Tak	non-BMR	2022	32	1
+Trang	non-BMR	2021	13	3.5
+Trang	non-BMR	2021	14	8.16666666666667
+Trang	non-BMR	2021	15	8.16666666666667
+Trang	non-BMR	2021	16	8.16666666666667
+Trang	non-BMR	2021	17	10.0645161290323
+Trang	non-BMR	2021	18	3.45161290322581
+Trang	non-BMR	2021	19	4.45161290322581
+Trang	non-BMR	2021	20	22.4516129032258
+Trang	non-BMR	2021	21	0.451612903225806
+Trang	non-BMR	2021	22	0.462365591397849
+Trang	non-BMR	2021	23	25.4666666666667
+Trang	non-BMR	2021	24	0.466666666666667
+Trang	non-BMR	2021	25	4.46666666666667
+Trang	non-BMR	2021	26	1.26666666666667
+Trang	non-BMR	2021	29	1
+Trang	non-BMR	2021	30	1
+Trang	non-BMR	2021	31	1
+Trang	non-BMR	2021	33	1
+Trang	non-BMR	2021	34	1
+Trang	non-BMR	2021	35	0.266666666666666
+Trang	non-BMR	2021	36	2.46666666666666
+Trang	non-BMR	2021	37	2.46666666666666
+Trang	non-BMR	2021	38	1.46666666666667
+Trang	non-BMR	2021	39	20.3333333333334
+Trang	non-BMR	2021	40	15
+Trang	non-BMR	2021	41	12
+Trang	non-BMR	2021	44	11
+Trang	non-BMR	2021	45	8.33333333333333
+Trang	non-BMR	2021	46	7.33333333333333
+Trang	non-BMR	2021	47	2.33333333333333
+Trang	non-BMR	2021	48	6.25806451612903
+Trang	non-BMR	2021	49	1.45161290322581
+Trang	non-BMR	2021	50	0.451612903225806
+Trang	non-BMR	2021	51	0.451612903225806
+Trang	non-BMR	2021	52	0.387096774193548
+Trang	non-BMR	2022	1	7
+Trang	non-BMR	2022	2	3
+Trang	non-BMR	2022	3	7
+Trang	non-BMR	2022	4	6
+Trang	non-BMR	2022	5	3
+Trang	non-BMR	2022	6	5
+Trang	non-BMR	2022	7	4
+Trang	non-BMR	2022	8	12
+Trang	non-BMR	2022	9	5
+Trang	non-BMR	2022	10	3
+Trang	non-BMR	2022	11	9
+Trang	non-BMR	2022	12	2
+Trang	non-BMR	2022	14	3
+Trang	non-BMR	2022	15	2
+Trang	non-BMR	2022	16	1
+Trang	non-BMR	2022	17	1
+Trang	non-BMR	2022	24	5
+Trang	non-BMR	2022	26	4
+Trang	non-BMR	2022	27	2
+Trang	non-BMR	2022	28	1
+Trang	non-BMR	2022	29	3
+Trang	non-BMR	2022	30	1
+Trat	non-BMR	2021	26	0.0967741935483871
+Trat	non-BMR	2021	27	0.225806451612903
+Trat	non-BMR	2021	28	0.225806451612903
+Trat	non-BMR	2021	29	0.225806451612903
+Trat	non-BMR	2021	30	0.225806451612903
+Trat	non-BMR	2021	33	1
+Trat	non-BMR	2021	40	1
+Trat	non-BMR	2021	41	5
+Trat	non-BMR	2021	42	10
+Trat	non-BMR	2021	43	15
+Trat	non-BMR	2021	44	2
+Trat	non-BMR	2022	5	8
+Trat	non-BMR	2022	6	5
+Trat	non-BMR	2022	7	1
+Trat	non-BMR	2022	8	7
+Trat	non-BMR	2022	9	13
+Trat	non-BMR	2022	10	16
+Trat	non-BMR	2022	11	10
+Trat	non-BMR	2022	12	16
+Trat	non-BMR	2022	13	1.06666666666667
+Trat	non-BMR	2022	14	1.23333333333333
+Trat	non-BMR	2022	15	0.233333333333333
+Trat	non-BMR	2022	16	2.23333333333333
+Trat	non-BMR	2022	17	3.23333333333333
+Trat	non-BMR	2022	18	19
+Trat	non-BMR	2022	19	3
+Trat	non-BMR	2022	20	7
+Trat	non-BMR	2022	21	3
+Trat	non-BMR	2022	23	1
+Trat	non-BMR	2022	24	1
+Trat	non-BMR	2022	25	1
+Trat	non-BMR	2022	27	2
+Trat	non-BMR	2022	28	2
+Trat	non-BMR	2022	29	5
+Trat	non-BMR	2022	30	8
+Trat	non-BMR	2022	31	2
+Trat	non-BMR	2022	32	1
+Trat	non-BMR	2022	33	6
+Trat	non-BMR	2022	34	4
+Trat	non-BMR	2022	35	3
+Trat	non-BMR	2022	36	1
+Ubon Ratchathani	non-BMR	2021	22	1.16666666666667
+Ubon Ratchathani	non-BMR	2021	23	0.233333333333333
+Ubon Ratchathani	non-BMR	2021	24	0.233333333333333
+Ubon Ratchathani	non-BMR	2021	25	0.233333333333333
+Ubon Ratchathani	non-BMR	2021	26	0.133333333333333
+Ubon Ratchathani	non-BMR	2021	44	1
+Ubon Ratchathani	non-BMR	2021	45	2
+Ubon Ratchathani	non-BMR	2021	47	3
+Ubon Ratchathani	non-BMR	2021	48	2.29032258064516
+Ubon Ratchathani	non-BMR	2021	49	6.25806451612903
+Ubon Ratchathani	non-BMR	2021	50	5.25806451612903
+Ubon Ratchathani	non-BMR	2021	51	3.25806451612903
+Ubon Ratchathani	non-BMR	2021	52	2.22580645161291
+Ubon Ratchathani	non-BMR	2022	1	2.03225806451613
+Ubon Ratchathani	non-BMR	2022	2	2.03225806451613
+Ubon Ratchathani	non-BMR	2022	3	5.03225806451613
+Ubon Ratchathani	non-BMR	2022	4	2.03225806451613
+Ubon Ratchathani	non-BMR	2022	5	1.58064516129032
+Ubon Ratchathani	non-BMR	2022	6	3
+Ubon Ratchathani	non-BMR	2022	7	4
+Ubon Ratchathani	non-BMR	2022	8	3
+Ubon Ratchathani	non-BMR	2022	9	6
+Ubon Ratchathani	non-BMR	2022	10	1
+Ubon Ratchathani	non-BMR	2022	16	1
+Ubon Ratchathani	non-BMR	2022	18	1.35483870967742
+Ubon Ratchathani	non-BMR	2022	19	1.35483870967742
+Ubon Ratchathani	non-BMR	2022	20	1.35483870967742
+Ubon Ratchathani	non-BMR	2022	21	2.35483870967742
+Ubon Ratchathani	non-BMR	2022	22	1.38064516129032
+Ubon Ratchathani	non-BMR	2022	23	1.4
+Ubon Ratchathani	non-BMR	2022	24	2.4
+Ubon Ratchathani	non-BMR	2022	25	1.4
+Ubon Ratchathani	non-BMR	2022	26	1
+Ubon Ratchathani	non-BMR	2022	31	3
+Udon Thani	non-BMR	2021	13	0.1
+Udon Thani	non-BMR	2021	14	0.233333333333333
+Udon Thani	non-BMR	2021	15	0.233333333333333
+Udon Thani	non-BMR	2021	16	0.233333333333333
+Udon Thani	non-BMR	2021	17	4.26451612903226
+Udon Thani	non-BMR	2021	18	1.45161290322581
+Udon Thani	non-BMR	2021	19	5.45161290322581
+Udon Thani	non-BMR	2021	20	3.45161290322581
+Udon Thani	non-BMR	2021	21	0.451612903225806
+Udon Thani	non-BMR	2021	22	0.129032258064516
+Udon Thani	non-BMR	2021	23	3
+Udon Thani	non-BMR	2021	24	3
+Udon Thani	non-BMR	2021	39	2
+Udon Thani	non-BMR	2021	41	5
+Udon Thani	non-BMR	2021	44	33
+Udon Thani	non-BMR	2021	45	59.8333333333333
+Udon Thani	non-BMR	2021	46	64.8333333333333
+Udon Thani	non-BMR	2021	47	87.8333333333333
+Udon Thani	non-BMR	2021	48	76.5
+Udon Thani	non-BMR	2021	49	9
+Udon Thani	non-BMR	2021	50	11
+Udon Thani	non-BMR	2021	51	11
+Udon Thani	non-BMR	2021	52	12.7741935483871
+Udon Thani	non-BMR	2022	1	14.4193548387097
+Udon Thani	non-BMR	2022	2	5.41935483870968
+Udon Thani	non-BMR	2022	3	5.41935483870968
+Udon Thani	non-BMR	2022	4	5.41935483870968
+Udon Thani	non-BMR	2022	5	2.26267281105991
+Udon Thani	non-BMR	2022	6	1
+Udon Thani	non-BMR	2022	7	1
+Udon Thani	non-BMR	2022	8	1
+Udon Thani	non-BMR	2022	9	0.930875576036866
+Udon Thani	non-BMR	2022	10	0.903225806451612
+Udon Thani	non-BMR	2022	11	0.903225806451612
+Udon Thani	non-BMR	2022	12	0.903225806451612
+Udon Thani	non-BMR	2022	13	0.711827956989247
+Udon Thani	non-BMR	2022	14	0.233333333333333
+Udon Thani	non-BMR	2022	15	0.233333333333333
+Udon Thani	non-BMR	2022	16	0.233333333333333
+Udon Thani	non-BMR	2022	17	0.233333333333333
+Udon Thani	non-BMR	2022	18	0.451612903225806
+Udon Thani	non-BMR	2022	19	0.451612903225806
+Udon Thani	non-BMR	2022	20	0.451612903225806
+Udon Thani	non-BMR	2022	21	0.451612903225806
+Udon Thani	non-BMR	2022	22	0.193548387096774
+Udon Thani	non-BMR	2022	26	0.387096774193548
+Udon Thani	non-BMR	2022	27	1.35483870967742
+Udon Thani	non-BMR	2022	28	1.35483870967742
+Udon Thani	non-BMR	2022	29	1.35483870967742
+Udon Thani	non-BMR	2022	30	1.35483870967742
+Udon Thani	non-BMR	2022	31	0.387096774193548
+Udon Thani	non-BMR	2022	32	0.225806451612903
+Udon Thani	non-BMR	2022	33	0.225806451612903
+Udon Thani	non-BMR	2022	34	0.225806451612903
+Udon Thani	non-BMR	2022	35	0.129032258064516
+Uthai Thani	non-BMR	2021	25	1
+Uthai Thani	non-BMR	2021	33	1
+Uthai Thani	non-BMR	2021	46	2
+Uthai Thani	non-BMR	2022	18	1
+Uttaradit	non-BMR	2021	24	1
+Uttaradit	non-BMR	2021	45	1
+Uttaradit	non-BMR	2021	48	1
+Uttaradit	non-BMR	2022	5	5
+Uttaradit	non-BMR	2022	6	1
+Uttaradit	non-BMR	2022	9	0.161290322580645
+Uttaradit	non-BMR	2022	10	0.225806451612903
+Uttaradit	non-BMR	2022	11	0.225806451612903
+Uttaradit	non-BMR	2022	12	0.225806451612903
+Uttaradit	non-BMR	2022	13	1.16129032258065
+Yala	non-BMR	2021	20	1
+Yala	non-BMR	2021	21	1
+Yala	non-BMR	2021	35	0.133333333333333
+Yala	non-BMR	2021	36	1.23333333333333
+Yala	non-BMR	2021	37	0.233333333333333
+Yala	non-BMR	2021	38	2.23333333333333
+Yala	non-BMR	2021	39	0.166666666666667
+Yala	non-BMR	2021	41	12
+Yala	non-BMR	2021	42	86
+Yala	non-BMR	2021	43	11
+Yala	non-BMR	2021	44	9
+Yala	non-BMR	2021	45	11
+Yala	non-BMR	2021	47	34
+Yala	non-BMR	2021	48	20
+Yala	non-BMR	2021	49	16
+Yala	non-BMR	2021	50	8
+Yala	non-BMR	2021	51	10
+Yala	non-BMR	2021	52	14
+Yala	non-BMR	2022	1	2
+Yala	non-BMR	2022	2	17
+Yala	non-BMR	2022	3	2
+Yasothon	non-BMR	2021	52	1
+Yasothon	non-BMR	2022	8	1
+Yasothon	non-BMR	2022	9	1
+Yasothon	non-BMR	2022	17	2
+Yasothon	non-BMR	2022	20	1
+NA	Unknown	2020	11	6
+NA	Unknown	2020	12	17
+NA	Unknown	2020	13	14
+NA	Unknown	2020	14	8
+NA	Unknown	2020	15	3
+NA	Unknown	2020	16	6
+NA	Unknown	2020	17	2
+NA	Unknown	2020	35	2
+NA	Unknown	2020	41	1
+NA	Unknown	2020	42	1
+NA	Unknown	2020	43	1
+NA	Unknown	2020	44	3
+NA	Unknown	2020	46	1
+NA	Unknown	2020	47	4
+NA	Unknown	2020	48	2
+NA	Unknown	2020	49	1
+NA	Unknown	2020	52	1
+NA	Unknown	2021	1	8
+NA	Unknown	2021	2	1
+NA	Unknown	2021	3	8
+NA	Unknown	2021	4	6
+NA	Unknown	2021	5	6
+NA	Unknown	2021	6	14
+NA	Unknown	2021	7	2
+NA	Unknown	2021	8	2
+NA	Unknown	2021	9	4
+NA	Unknown	2021	10	1
+NA	Unknown	2021	11	2
+NA	Unknown	2021	12	1
+NA	Unknown	2021	13	1
+NA	Unknown	2021	14	2
+NA	Unknown	2021	16	1
+NA	Unknown	2021	17	1
+NA	Unknown	2021	19	1
+NA	Unknown	2021	20	4
+NA	Unknown	2021	21	7
+NA	Unknown	2021	22	1
+NA	Unknown	2021	23	1
+NA	Unknown	2021	24	4
+NA	Unknown	2021	25	7
+NA	Unknown	2021	26	1
+NA	Unknown	2021	27	4
+NA	Unknown	2021	28	4
+NA	Unknown	2021	32	14
+NA	Unknown	2021	33	1
+NA	Unknown	2021	34	1
+NA	Unknown	2021	36	1
+NA	Unknown	2021	37	1
+NA	Unknown	2021	38	1
+NA	Unknown	2021	39	1
+NA	Unknown	2021	42	2
+NA	Unknown	2021	46	1
+NA	Unknown	2021	48	1
+NA	Unknown	2021	49	2
+NA	Unknown	2021	50	10
+NA	Unknown	2021	51	9
+NA	Unknown	2021	52	16
+NA	Unknown	2022	1	22
+NA	Unknown	2022	2	1
+NA	Unknown	2022	3	2
+NA	Unknown	2022	4	2
+NA	Unknown	2022	5	8
+NA	Unknown	2022	6	9
+NA	Unknown	2022	7	6
+NA	Unknown	2022	8	12
+NA	Unknown	2022	9	4
+NA	Unknown	2022	10	6
+NA	Unknown	2022	11	6
+NA	Unknown	2022	22	2
+NA	Unknown	2022	24	1
