@@ -41,6 +41,7 @@ If necessary, install required packages in R.
 
 INSTRUCTIONS FOR USE
 ==============
+Upzip the file "tha_admbnda_adm1_rtsd_20220121.zip" in the "data/Th_map" directory, and leave the file "tha_admbnda_adm1_rtsd_20220121.shp" there. 
 Run the scrtips in R. 
 To execute the codes, set the variable "path_to_wd" to the path of the "code" directory. 
 Results will be available to you in "code/out".
